@@ -1,0 +1,1622 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-18 14:58+0300\n"
+"PO-Revision-Date: 2024-09-18 14:59+0300\n"
+"Last-Translator: Jordan Silaen <jordan.silaen@chameleonjohn.com>\n"
+"Language-Team: ChameleonJohn.com <jordan.silaen@chameleonjohn.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: contact_form.php:43 contact_form.php:52 contact_form.php:917
+#: includes/class-cntctfrm-settings.php:477
+msgid "Contact Form Settings"
+msgstr "Pengaturan Form kontak"
+
+#: contact_form.php:53 contact_form.php:2145 contact_form.php:2165
+#: includes/class-cntctfrm-settings.php:30
+msgid "Settings"
+msgstr "pengaturan"
+
+#: contact_form.php:76
+msgid "Upgrade to Pro"
+msgstr "Upgrade ke yang lebih baik"
+
+#: contact_form.php:573 contact_form.php:1879 contact_form.php:1927
+#: includes/class-cntctfrm-settings.php:636
+#: includes/class-cntctfrm-settings.php:734
+#: includes/class-cntctfrm-settings.php:1310
+#: includes/class-cntctfrm-settings.php:1354
+#: includes/class-cntctfrm-settings.php:1616
+msgid "Name"
+msgstr "Nama"
+
+#: contact_form.php:574 contact_form.php:1886 contact_form.php:1933
+#: includes/class-cntctfrm-settings.php:786
+#: includes/class-cntctfrm-settings.php:1311
+#: includes/class-cntctfrm-settings.php:1355
+#: includes/class-cntctfrm-settings.php:1621
+msgid "Address"
+msgstr "Alamat"
+
+#: contact_form.php:575 includes/class-cntctfrm-settings.php:808
+#: includes/class-cntctfrm-settings.php:1312
+#: includes/class-cntctfrm-settings.php:1356
+msgid "Email Address"
+msgstr "Alamat email"
+
+#: contact_form.php:576 includes/class-cntctfrm-settings.php:834
+#: includes/class-cntctfrm-settings.php:1313
+#: includes/class-cntctfrm-settings.php:1357
+msgid "Phone number"
+msgstr "Nomor telepon"
+
+#: contact_form.php:577 contact_form.php:1897 contact_form.php:1942
+#: includes/class-cntctfrm-settings.php:856
+#: includes/class-cntctfrm-settings.php:1314
+#: includes/class-cntctfrm-settings.php:1358
+#: includes/class-cntctfrm-settings.php:1636
+msgid "Subject"
+msgstr "Subyek"
+
+#: contact_form.php:578 contact_form.php:1902 contact_form.php:1946
+#: includes/class-cntctfrm-settings.php:894
+#: includes/class-cntctfrm-settings.php:1315
+#: includes/class-cntctfrm-settings.php:1359
+#: includes/class-cntctfrm-settings.php:1640
+msgid "Message"
+msgstr "Pesan"
+
+#: contact_form.php:579 includes/class-cntctfrm-settings.php:1316
+#: includes/class-cntctfrm-settings.php:1360
+#: includes/class-cntctfrm-settings.php:1645
+msgid "Attachment"
+msgstr "Lampiran"
+
+#: contact_form.php:580
+msgid ""
+"Supported file types: HTML, TXT, CSS, GIF, PNG, JPEG, JPG, TIFF, BMP, AI, "
+"EPS, PS, CSV, RTF, PDF, DOC, DOCX, XLS, XLSX, ZIP, RAR, WAV, MP3, PPT."
+msgstr ""
+"Jenis file yang didukung: HTML, TXT, CSS, GIF, PNG, JPEG, JPG, TIFF, BMP, "
+"AI, EPS, PS, CSV, RTF, PDF, DOC, DOCX, XLS, XLSX, ZIP, RAR, WAV, MP3, PPT."
+
+#: contact_form.php:581 includes/class-cntctfrm-settings.php:1318
+#: includes/class-cntctfrm-settings.php:1362
+msgid "Send me a copy"
+msgstr "Kirimkan saya salinan"
+
+#: contact_form.php:582 includes/class-cntctfrm-settings.php:1319
+#: includes/class-cntctfrm-settings.php:1363
+msgid "I consent to having this site collect my personal data."
+msgstr "Saya menyetujui situs ini mengumpulkan data pribadi saya."
+
+#: contact_form.php:583 contact_form.php:2261
+#: includes/class-cntctfrm-settings.php:1320
+#: includes/class-cntctfrm-settings.php:1364
+msgid "Learn more"
+msgstr "Pelajari lebih lanjut"
+
+#: contact_form.php:584 includes/class-cntctfrm-settings.php:1321
+#: includes/class-cntctfrm-settings.php:1365
+msgid "Submit"
+msgstr "Menyerahkan"
+
+#: contact_form.php:585
+msgid "Your name is required."
+msgstr "Nama Anda diperlukan."
+
+#: contact_form.php:586
+msgid "Address is required."
+msgstr "Alamat diperlukan."
+
+#: contact_form.php:587
+msgid "A valid email address is required."
+msgstr "Sebuah alamat email yang valid diperlukan."
+
+#: contact_form.php:588
+msgid "Phone number is required."
+msgstr "Nomor telepon diperlukan."
+
+#: contact_form.php:589
+msgid "Subject is required."
+msgstr "Subjek diperlukan."
+
+#: contact_form.php:590
+msgid "Message text is required."
+msgstr "Pesan teks diperlukan."
+
+#: contact_form.php:591
+msgid "Message length does not meet requirements."
+msgstr "Panjang pesan tidak memenuhi persyaratan."
+
+#: contact_form.php:592
+msgid "File format is not valid."
+msgstr "Format file tidak valid."
+
+#: contact_form.php:593
+msgid "File upload error."
+msgstr "Berkas kesalahan upload."
+
+#: contact_form.php:594
+msgid "The file could not be uploaded."
+msgstr "File tidak dapat diunggah."
+
+#: contact_form.php:595
+msgid "This file is too large."
+msgstr "File ini terlalu besar."
+
+#: contact_form.php:596
+msgid "Please fill out the CAPTCHA."
+msgstr "Silahkan isi CAPTCHA."
+
+#: contact_form.php:597
+msgid "Please make corrections below and try again."
+msgstr "Silakan membuat koreksi di bawah ini dan coba lagi."
+
+#: contact_form.php:599
+msgid "Thank you for contacting us."
+msgstr "Terima kasih sudah menghubungi kami."
+
+#: contact_form.php:936
+#, php-format
+msgid ""
+"%1$sNote:%2$s The contact form is not protected from spam and bots. Use %3$s "
+"Captcha by BestWebSoft plugin %5$s or %4$s reCaptcha by BestWebSoft plugin "
+"%5$s to protect your contact form."
+msgstr ""
+"%1$s Catatan: %2$s Formulir kontak tidak dilindungi dari spam dan bot. "
+"Gunakan %3$s Captcha oleh plugin BestWebSoft %5$s atau %4$s reCaptcha oleh "
+"plugin BestWebSoft %5$s untuk melindungi formulir kontak Anda."
+
+#: contact_form.php:945
+msgid "NEW_FORM"
+msgstr "NEW_FORM"
+
+#: contact_form.php:946
+msgid ""
+"If you want to create multiple contact forms, please install the Contact "
+"Form Multi plugin."
+msgstr ""
+"Jika Anda ingin membuat beberapa bentuk kontak, silahkan install plugin "
+"Formulir Kontak multi."
+
+#: contact_form.php:951
+msgid ""
+"Contact Form plugin doesn't support your current version of Contact Form "
+"Multi plugin. Please update Contact Form Multi plugin to version 1.2.6 or "
+"higher."
+msgstr ""
+"Plugin Contact Form tidak mendukung versi plugin Contact Form Multi Anda "
+"saat ini. Harap perbarui plugin Contact Form Multi ke versi 1.2.6 atau yang "
+"lebih tinggi."
+
+#: contact_form.php:1065
+msgid "Sorry, email message could not be delivered."
+msgstr "Maaf, pesan email tidak dapat disampaikan."
+
+#: contact_form.php:1103 contact_form.php:1159
+msgid ""
+"Please enter only letters at least 3 characters, words seperated by spaces"
+msgstr ""
+"Harap masukkan hanya huruf minimal 3 karakter, kata-kata yang dipisahkan "
+"oleh spasi"
+
+#: contact_form.php:1117
+msgid ""
+"Please enter only letters and numbers at least 3 characters, words seperated "
+"by spaces"
+msgstr ""
+"Harap masukkan hanya huruf dan angka minimal 3 karakter, kata-kata yang "
+"dipisahkan oleh spasi"
+
+#: contact_form.php:1145
+msgid "Please enter only numbers at least 6 characters"
+msgstr "Harap masukkan hanya angka minimal 6 karakter"
+
+#: contact_form.php:1497
+#, php-format
+msgid "between %1$d and %2$d characters"
+msgstr "antara karakter %1$d dan %2$d"
+
+#: contact_form.php:1504 includes/class-cntctfrm-settings.php:1954
+#, php-format
+msgid "more than %1$d characters"
+msgstr "lebih dari %1$d karakter"
+
+#: contact_form.php:1510 includes/class-cntctfrm-settings.php:1959
+#, php-format
+msgid "less than %1$d characters"
+msgstr "kurang dari %1$d karakter"
+
+#: contact_form.php:1831 contact_form.php:1833
+msgid "Sent from (ip address)"
+msgstr "Dikirim dari (alamat ip)"
+
+#: contact_form.php:1838 contact_form.php:1840
+#: includes/class-cntctfrm-settings.php:1262
+msgid "Date/Time"
+msgstr "Tanggal Waktu"
+
+#: contact_form.php:1845 contact_form.php:1847
+#: includes/class-cntctfrm-settings.php:1263
+msgid "Sent from (referer)"
+msgstr "Dikirim dari (referer)"
+
+#: contact_form.php:1852 contact_form.php:1854
+#: includes/class-cntctfrm-settings.php:1264
+msgid "Using (user agent)"
+msgstr "Menggunakan (agen pengguna)"
+
+#: contact_form.php:1865
+msgid "Contact from"
+msgstr "Kontak dari"
+
+#: contact_form.php:1870 contact_form.php:1920
+msgid "Site"
+msgstr "situs"
+
+#: contact_form.php:1892 contact_form.php:1938
+#: includes/class-cntctfrm-settings.php:660
+msgid "Email"
+msgstr "E-mail"
+
+#: contact_form.php:1908 contact_form.php:1951
+#: includes/class-cntctfrm-settings.php:1631
+msgid "Phone Number"
+msgstr "Nomor telepon"
+
+#: contact_form.php:2060
+msgid ""
+"If you can see this MIME, it means that the MIME type is not supported by "
+"your email client!"
+msgstr ""
+"Jika Anda dapat melihat MIME ini, itu berarti bahwa tipe MIME tidak didukung "
+"oleh klien email Anda!"
+
+#: contact_form.php:2167
+msgid "FAQ"
+msgstr "FAQ"
+
+#: contact_form.php:2168
+msgid "Support"
+msgstr "Mendukung"
+
+#: contact_form.php:2232
+msgid "Are you sure that you want to delete this language data?"
+msgstr "Apakah Anda yakin bahwa Anda ingin menghapus data bahasa ini?"
+
+#: contact_form.php:2256
+msgid "Add multiple forms"
+msgstr "Menambahkan beberapa formulir"
+
+#: contact_form.php:2256
+msgid ""
+"Install Contact Form Multi plugin to create unlimited number of contact "
+"forms."
+msgstr ""
+"Instal Form Kontak multi plugin untuk membuat jumlah yang tidak terbatas "
+"formulir kontak."
+
+#: contact_form.php:2265 includes/class-cntctfrm-settings.php:526
+#: includes/class-cntctfrm-settings.php:984
+#: includes/class-cntctfrm-settings.php:1218
+#: includes/class-cntctfrm-settings.php:1544
+msgid "Close"
+msgstr "Dekat"
+
+#: contact_form.php:2332
+msgid "Error"
+msgstr "Kesalahan"
+
+#: contact_form.php:2332 contact_form.php:2334
+msgid "Illegal language code"
+msgstr "Kode bahasa ilegal"
+
+#: contact_form.php:2366 contact_form.php:2368
+#: includes/class-cntctfrm-settings.php:1337
+#: includes/class-cntctfrm-settings.php:1339
+#: includes/class-cntctfrm-settings.php:1381
+#: includes/class-cntctfrm-settings.php:1383
+#: includes/class-cntctfrm-settings.php:1421
+#: includes/class-cntctfrm-settings.php:1423
+#: includes/class-cntctfrm-settings.php:1438
+#: includes/class-cntctfrm-settings.php:1440
+msgid "Use shortcode"
+msgstr "Gunakan shortcode"
+
+#: contact_form.php:2366 contact_form.php:2368
+#: includes/class-cntctfrm-settings.php:1337
+#: includes/class-cntctfrm-settings.php:1339
+#: includes/class-cntctfrm-settings.php:1381
+#: includes/class-cntctfrm-settings.php:1383
+#: includes/class-cntctfrm-settings.php:1421
+#: includes/class-cntctfrm-settings.php:1423
+#: includes/class-cntctfrm-settings.php:1438
+#: includes/class-cntctfrm-settings.php:1440
+msgid "for this language"
+msgstr "untuk bahasa ini"
+
+#: contact_form.php:2511
+msgid "Test your contact form"
+msgstr "Menguji formulir kontak Anda"
+
+#: contact_form.php:2511
+msgid ""
+"Ensure your contact form are correctly configured. Check your settings now!"
+msgstr ""
+"Pastikan formulir kontak Anda dikonfigurasi dengan benar. Periksa pengaturan "
+"Anda sekarang!"
+
+#: contact_form.php:2560
+msgid "Close notice"
+msgstr "Tutup pemberitahuan"
+
+#: contact_form.php:2565
+msgid "allows to store your messages to the database."
+msgstr "memungkinkan untuk menyimpan pesan Anda ke database."
+
+#: contact_form.php:2566
+msgid "Manage messages that have been sent from your website."
+msgstr "Mengelola pesan yang telah dikirim dari situs web Anda."
+
+#: contact_form.php:2569
+msgid "Learn More"
+msgstr "Belajarlah lagi"
+
+#: contact_form.php:2639
+msgid "Contact form"
+msgstr "Formulir kontak"
+
+#: contact_form.php:2654 contact_form.php:2666
+msgid "Language"
+msgstr "Bahasa"
+
+#: includes/class-cntctfrm-settings.php:31
+#: includes/class-cntctfrm-settings.php:608
+msgid "Additional Settings"
+msgstr "Seting Tambahan"
+
+#: includes/class-cntctfrm-settings.php:32
+#: includes/class-cntctfrm-settings.php:1466
+msgid "Appearance"
+msgstr "Penampilan"
+
+#: includes/class-cntctfrm-settings.php:33
+msgid "Misc"
+msgstr "Lain-lain"
+
+#: includes/class-cntctfrm-settings.php:34
+msgid "Custom Code"
+msgstr "Kode Khusus"
+
+#: includes/class-cntctfrm-settings.php:35
+msgid "License Key"
+msgstr "Kunci Lisensi"
+
+#: includes/class-cntctfrm-settings.php:111
+msgid "Please enable JavaScript in your browser."
+msgstr "Harap aktifkan JavaScript di browser Anda."
+
+#: includes/class-cntctfrm-settings.php:113
+#, php-format
+msgid ""
+"Contact Form plugin requires PHP %s or higher. Please contact your hosting "
+"provider to upgrade PHP version."
+msgstr ""
+"Plugin Formulir Kontak membutuhkan PHP %s atau lebih tinggi. Silakan hubungi "
+"penyedia hosting Anda untuk meningkatkan versi PHP."
+
+#: includes/class-cntctfrm-settings.php:143
+msgid "Sorry, your nonce did not verify."
+msgstr "Maaf, nonce Anda tidak memverifikasi."
+
+#: includes/class-cntctfrm-settings.php:211
+msgid "Min / Max symbols in the message cannot be empty."
+msgstr "Simbol Min/Max dalam pesan tidak boleh kosong."
+
+#: includes/class-cntctfrm-settings.php:399
+msgid ""
+"Email 'FROM' field option was changed, which may cause email messages being "
+"moved to the spam folder or email delivery failures."
+msgstr ""
+"Email 'DARI' pilihan lapangan berubah, yang dapat menyebabkan pesan email "
+"dipindahkan ke folder spam atau email kegagalan pengiriman."
+
+#: includes/class-cntctfrm-settings.php:409
+msgid ""
+"If the 'Redirect to page' option is selected then the URL field should be in "
+"the following format"
+msgstr ""
+"Jika 'Redirect ke halaman' opsi yang dipilih maka bidang URL harus dalam "
+"format berikut"
+
+#: includes/class-cntctfrm-settings.php:414
+msgid "Such user does not exist."
+msgstr "Pengguna tersebut tidak ada."
+
+#: includes/class-cntctfrm-settings.php:423
+msgid ""
+"Please enter a valid email address in the 'Use this email address' field."
+msgstr "Masukkan alamat email yang valid di kolom 'Gunakan alamat email ini'."
+
+#: includes/class-cntctfrm-settings.php:431
+msgid "Please enter a valid email address in the 'FROM' field."
+msgstr "Masukkan alamat email yang valid di kolom 'FROM'."
+
+#: includes/class-cntctfrm-settings.php:452
+msgid "Settings saved."
+msgstr "Pengaturan disimpan."
+
+#: includes/class-cntctfrm-settings.php:454
+msgid "Settings are not saved."
+msgstr "Pengaturan tidak disimpan."
+
+#: includes/class-cntctfrm-settings.php:481
+msgid ""
+"If you leave the fields empty, the messages will be sent to the email "
+"address specified during registration."
+msgstr ""
+"Jika Anda meninggalkan bidang kosong, pesan akan dikirim ke alamat email "
+"yang ditentukan saat pendaftaran."
+
+#: includes/class-cntctfrm-settings.php:484
+msgid "The user's email address"
+msgstr "Alamat email pengguna"
+
+#: includes/class-cntctfrm-settings.php:489
+msgid "Select a username"
+msgstr "Pilih Username"
+
+#: includes/class-cntctfrm-settings.php:508
+msgid ""
+"Select a username of the person who should get the messages from the contact "
+"form."
+msgstr ""
+"Pilih nama pengguna orang yang akan menerima pesan dari formulir kontak."
+
+#: includes/class-cntctfrm-settings.php:513
+msgid "Use this email address"
+msgstr "Gunakan alamat email ini"
+
+#: includes/class-cntctfrm-settings.php:518
+msgid ""
+"Enter multiple email addresses separated by comma for receiving messages."
+msgstr ""
+"Masukkan beberapa alamat email yang dipisahkan dengan koma untuk menerima "
+"pesan."
+
+#: includes/class-cntctfrm-settings.php:530
+msgid "Add department selectbox to the contact form"
+msgstr "Tambahkan kotak pilihan departemen ke formulir kontak"
+
+#: includes/class-cntctfrm-settings.php:543
+msgid "Save emails to the database"
+msgstr "Menyimpan email ke database"
+
+#: includes/class-cntctfrm-settings.php:556
+#: includes/class-cntctfrm-settings.php:576
+#: includes/class-cntctfrm-settings.php:585
+msgid "Using"
+msgstr "menggunakan"
+
+#: includes/class-cntctfrm-settings.php:562
+#: includes/class-cntctfrm-settings.php:1087
+#: includes/class-cntctfrm-settings.php:1142
+#: includes/class-cntctfrm-settings.php:1187
+msgid "Please activate the appropriate option on"
+msgstr "Silakan aktifkan opsi yang sesuai pada"
+
+#: includes/class-cntctfrm-settings.php:567
+#: includes/class-cntctfrm-settings.php:1092
+#: includes/class-cntctfrm-settings.php:1147
+#: includes/class-cntctfrm-settings.php:1192
+msgid "settings page"
+msgstr "halaman pengaturan"
+
+#: includes/class-cntctfrm-settings.php:577
+#: includes/class-cntctfrm-settings.php:1104
+#: includes/class-cntctfrm-settings.php:1159
+#: includes/class-cntctfrm-settings.php:1203
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: includes/class-cntctfrm-settings.php:586
+#: includes/class-cntctfrm-settings.php:1116
+#: includes/class-cntctfrm-settings.php:1167
+#: includes/class-cntctfrm-settings.php:1210
+msgid "Download"
+msgstr "Download"
+
+#: includes/class-cntctfrm-settings.php:613
+msgid "Sending method"
+msgstr "metode pengiriman"
+
+#: includes/class-cntctfrm-settings.php:618
+msgid "Wp-mail"
+msgstr "Wp-mail"
+
+#: includes/class-cntctfrm-settings.php:619
+msgid "You can use the WordPress wp_mail function for mailing"
+msgstr "Anda dapat menggunakan fungsi wp_mail WordPress untuk mengirim email"
+
+#: includes/class-cntctfrm-settings.php:624
+msgid "Mail"
+msgstr "Surat"
+
+#: includes/class-cntctfrm-settings.php:625
+msgid "You can use the PHP mail function for mailing"
+msgstr "Anda dapat menggunakan fungsi surat PHP untuk mengirim surat"
+
+#: includes/class-cntctfrm-settings.php:631
+msgid "'FROM' field"
+msgstr "'DARI' lapangan"
+
+#: includes/class-cntctfrm-settings.php:647
+msgid "User name"
+msgstr "Nama pengguna"
+
+#: includes/class-cntctfrm-settings.php:649
+msgid ""
+"The name of the user who fills the form will be used in the field 'From'."
+msgstr "Nama pengguna yang mengisi form akan digunakan dalam bidang 'Dari'."
+
+#: includes/class-cntctfrm-settings.php:671
+msgid "User email"
+msgstr "Email"
+
+#: includes/class-cntctfrm-settings.php:673
+msgid ""
+"The email address of the user who fills the form will be used in the field "
+"'From'."
+msgstr ""
+"Alamat email pengguna yang mengisi form akan digunakan dalam bidang 'Dari'."
+
+#: includes/class-cntctfrm-settings.php:682
+msgid ""
+"If this option is changed, email messages may be moved to the spam folder or "
+"email delivery failures may occur."
+msgstr ""
+"Jika opsi ini berubah, pesan email mungkin akan dipindahkan ke folder spam "
+"atau email kegagalan pengiriman dapat terjadi."
+
+#: includes/class-cntctfrm-settings.php:691
+msgid "Required symbol"
+msgstr "simbol diperlukan"
+
+#: includes/class-cntctfrm-settings.php:701
+msgid "Fields"
+msgstr "Fields"
+
+#: includes/class-cntctfrm-settings.php:702
+#: includes/class-cntctfrm-settings.php:721
+#: includes/class-cntctfrm-settings.php:737
+#: includes/class-cntctfrm-settings.php:768
+#: includes/class-cntctfrm-settings.php:789
+#: includes/class-cntctfrm-settings.php:811
+#: includes/class-cntctfrm-settings.php:837
+#: includes/class-cntctfrm-settings.php:862
+#: includes/class-cntctfrm-settings.php:900
+#: includes/class-cntctfrm-settings.php:940
+#: includes/class-cntctfrm-settings.php:992
+msgid "Used"
+msgstr "Bekas"
+
+#: includes/class-cntctfrm-settings.php:703
+#: includes/class-cntctfrm-settings.php:725
+#: includes/class-cntctfrm-settings.php:741
+#: includes/class-cntctfrm-settings.php:772
+#: includes/class-cntctfrm-settings.php:793
+#: includes/class-cntctfrm-settings.php:815
+#: includes/class-cntctfrm-settings.php:841
+#: includes/class-cntctfrm-settings.php:871
+#: includes/class-cntctfrm-settings.php:909
+#: includes/class-cntctfrm-settings.php:993
+msgid "Required"
+msgstr "Wajib"
+
+#: includes/class-cntctfrm-settings.php:706
+#: includes/class-cntctfrm-settings.php:747
+#: includes/class-cntctfrm-settings.php:819
+#: includes/class-cntctfrm-settings.php:878
+#: includes/class-cntctfrm-settings.php:915
+#: includes/class-cntctfrm-settings.php:994
+msgid "Visible"
+msgstr "Terlihat"
+
+#: includes/class-cntctfrm-settings.php:707
+#: includes/class-cntctfrm-settings.php:751
+#: includes/class-cntctfrm-settings.php:823
+#: includes/class-cntctfrm-settings.php:882
+#: includes/class-cntctfrm-settings.php:919
+#: includes/class-cntctfrm-settings.php:995
+msgid "Disabled for editing"
+msgstr "Dinonaktifkan untuk mengedit"
+
+#: includes/class-cntctfrm-settings.php:708
+#: includes/class-cntctfrm-settings.php:778
+#: includes/class-cntctfrm-settings.php:886
+#: includes/class-cntctfrm-settings.php:923
+msgid "Field's default value"
+msgstr "Nilai default Field"
+
+#: includes/class-cntctfrm-settings.php:718
+msgid "Department selectbox"
+msgstr "Departemen selectbox"
+
+#: includes/class-cntctfrm-settings.php:755
+msgid "Use User's name as a default value if the user is logged in."
+msgstr "Gunakan Nama Pengguna sebagai nilai default jika pengguna login."
+
+#: includes/class-cntctfrm-settings.php:756
+#: includes/class-cntctfrm-settings.php:828
+msgid ""
+"'Visible' and 'Disabled for editing' options will be applied only to logged-"
+"in users."
+msgstr ""
+"'Visible' dan 'Dinonaktifkan untuk mengedit' pilihan akan diterapkan hanya "
+"untuk log-in pengguna."
+
+#: includes/class-cntctfrm-settings.php:765
+msgid "Location selectbox"
+msgstr "Kotak pilihan lokasi"
+
+#: includes/class-cntctfrm-settings.php:827
+msgid "Use User's email as a default value if the user is logged in."
+msgstr "Gunakan email Pengguna sebagai nilai default jika pengguna login."
+
+#: includes/class-cntctfrm-settings.php:849
+#, php-format
+msgid ""
+"Specify a mask which will be used for the phone validation, where * is a "
+"number. Use only the following symbols: %s"
+msgstr ""
+"Tentukan mask yang akan digunakan untuk validasi telepon, di mana * adalah "
+"angka. Gunakan hanya simbol berikut ini: %s"
+
+#: includes/class-cntctfrm-settings.php:933
+msgid "Attachment block"
+msgstr "Blok lampiran"
+
+#: includes/class-cntctfrm-settings.php:935
+msgid "Users can attach the following file formats"
+msgstr "Pengguna dapat melampirkan format file berikut"
+
+#: includes/class-cntctfrm-settings.php:958
+msgid "Multi-attachment"
+msgstr "Multi-lampiran"
+
+#: includes/class-cntctfrm-settings.php:960
+msgid "Enable to multiple file selection"
+msgstr "Memungkinkan pemilihan beberapa file"
+
+#: includes/class-cntctfrm-settings.php:990
+msgid "Title"
+msgstr "Judul"
+
+#: includes/class-cntctfrm-settings.php:991
+msgid "Field Type"
+msgstr "Jenis Bidang"
+
+#: includes/class-cntctfrm-settings.php:996
+msgid "Field's default/available value"
+msgstr "Nilai default/nilai yang tersedia pada bidang"
+
+#: includes/class-cntctfrm-settings.php:1021
+msgid "Create Field"
+msgstr "Buat Bidang"
+
+#: includes/class-cntctfrm-settings.php:1026
+msgid "Google Analytics Measurement ID"
+msgstr "ID Pengukuran Google Analytics"
+
+#: includes/class-cntctfrm-settings.php:1031
+#, php-format
+msgid ""
+"Enter your %1$sMeasurement ID%2$s to track contact form submissions in "
+"Google Analytics."
+msgstr ""
+"Masukkan ID Pengukuran %1$s Anda %2$s untuk melacak pengiriman formulir "
+"kontak di Google Analytics."
+
+#: includes/class-cntctfrm-settings.php:1032
+msgid "Google Analytics version 4 is required."
+msgstr "Diperlukan Google Analytics versi 4."
+
+#: includes/class-cntctfrm-settings.php:1045
+msgid "Add to the form"
+msgstr "Tambahkan ke form"
+
+#: includes/class-cntctfrm-settings.php:1050
+msgid "Tips below the Attachment"
+msgstr "Tips di bawah ini Lampiran"
+
+#: includes/class-cntctfrm-settings.php:1057
+msgid "'Send me a copy' block"
+msgstr "'Kirimkan saya salinan' block"
+
+#: includes/class-cntctfrm-settings.php:1064
+msgid "GDPR Compliance"
+msgstr "Kepatuhan terhadap GDPR"
+
+#: includes/class-cntctfrm-settings.php:1069
+msgid "Link to Privacy Policy Page"
+msgstr "Tautan ke Halaman Kebijakan Privasi"
+
+#: includes/class-cntctfrm-settings.php:1106
+msgid "Activate for network"
+msgstr "Aktifkan untuk jaringan"
+
+#: includes/class-cntctfrm-settings.php:1222
+msgid "Agreement checkbox"
+msgstr "Kotak centang Perjanjian"
+
+#: includes/class-cntctfrm-settings.php:1222
+msgid "Required checkbox for submitting the form"
+msgstr "Kotak centang yang diperlukan untuk mengirimkan formulir"
+
+#: includes/class-cntctfrm-settings.php:1223
+msgid "Optional checkbox"
+msgstr "Kotak centang opsional"
+
+#: includes/class-cntctfrm-settings.php:1223
+msgid "Optional checkbox, the results of which will be displayed in email"
+msgstr "Opsional kotak centang, yang hasilnya akan ditampilkan dalam email"
+
+#: includes/class-cntctfrm-settings.php:1234
+msgid "Delete an attachment file from the server after the email is sent"
+msgstr "Hapus file lampiran dari server setelah email tersebut dikirim"
+
+#: includes/class-cntctfrm-settings.php:1240
+msgid "Email in HTML format sending"
+msgstr "Email dalam format HTML mengirim"
+
+#: includes/class-cntctfrm-settings.php:1244
+msgid "Limit for Message field"
+msgstr "Batas untuk bidang Pesan"
+
+#: includes/class-cntctfrm-settings.php:1246
+msgid "Min / Max symbols in the message"
+msgstr "Simbol Min/Maks dalam pesan"
+
+#: includes/class-cntctfrm-settings.php:1248
+msgid "min"
+msgstr "min"
+
+#: includes/class-cntctfrm-settings.php:1249
+msgid "max"
+msgstr "max"
+
+#: includes/class-cntctfrm-settings.php:1254
+msgid "Display additional info in the email"
+msgstr "Menampilkan info tambahan dalam email"
+
+#: includes/class-cntctfrm-settings.php:1261
+msgid "Sent from (IP address)"
+msgstr "Dikirim dari (alamat IP)"
+
+#: includes/class-cntctfrm-settings.php:1261
+msgid "Example: Sent from (IP address): 127.0.0.1"
+msgstr "Contoh: Dikirim dari (alamat IP): 127.0.0.1"
+
+#: includes/class-cntctfrm-settings.php:1262
+msgid "Example: Date/Time: August 19, 2013 8:50 pm"
+msgstr "Contoh: Tanggal/Waktu: 19 Agustus 2013 pukul 20:50"
+
+#: includes/class-cntctfrm-settings.php:1263
+msgid ""
+"Example: Sent from (referer):   https://bestwebsoft.com/contacts/contact-us/"
+msgstr ""
+"Contoh: Dikirim dari (pengarah): https://bestwebsoft.com/contacts/contact-us/"
+
+#: includes/class-cntctfrm-settings.php:1264
+msgid ""
+"Example: Using (user agent): Mozilla/5.0 (Windows NT 6.2; WOW64) "
+"AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36"
+msgstr ""
+"Contoh: Menggunakan (agen pengguna): Mozilla/5.0 (Windows NT 6.2; WOW64) "
+"AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/28.0.1500.95 Safari/537.36"
+
+#: includes/class-cntctfrm-settings.php:1270
+msgid "Language Settings"
+msgstr "Pengaturan Bahasa"
+
+#: includes/class-cntctfrm-settings.php:1283
+msgid "Add a language"
+msgstr "Menambahkan bahasa"
+
+#: includes/class-cntctfrm-settings.php:1287
+msgid "Change the names of the contact form fields and error messages"
+msgstr "Mengubah nama-nama kolom formulir kontak dan pesan kesalahan"
+
+#: includes/class-cntctfrm-settings.php:1293
+#: includes/class-cntctfrm-settings.php:1404
+#: includes/class-cntctfrm-settings.php:1523
+msgid "Default"
+msgstr "Default"
+
+#: includes/class-cntctfrm-settings.php:1308
+#: includes/class-cntctfrm-settings.php:1352
+msgid "click to expand/hide the list"
+msgstr "klik untuk memperluas / menyembunyikan daftar"
+
+#: includes/class-cntctfrm-settings.php:1317
+#: includes/class-cntctfrm-settings.php:1361
+msgid "Tips below the Attachment block"
+msgstr "Tips di bawah ini blok Lampiran"
+
+#: includes/class-cntctfrm-settings.php:1322
+#: includes/class-cntctfrm-settings.php:1366
+msgid "Error message for the Name field"
+msgstr "pesan kesalahan untuk bidang Nama"
+
+#: includes/class-cntctfrm-settings.php:1323
+#: includes/class-cntctfrm-settings.php:1367
+msgid "Error message for the Address field"
+msgstr "pesan kesalahan untuk bidang Alamat"
+
+#: includes/class-cntctfrm-settings.php:1324
+#: includes/class-cntctfrm-settings.php:1368
+msgid "Error message for the Email field"
+msgstr "pesan kesalahan untuk bidang Email"
+
+#: includes/class-cntctfrm-settings.php:1325
+#: includes/class-cntctfrm-settings.php:1369
+msgid "Error message for the Phone field"
+msgstr "pesan kesalahan untuk bidang Telepon"
+
+#: includes/class-cntctfrm-settings.php:1326
+#: includes/class-cntctfrm-settings.php:1370
+msgid "Error message for the Subject field"
+msgstr "pesan kesalahan untuk kolom Subyek"
+
+#: includes/class-cntctfrm-settings.php:1327
+#: includes/class-cntctfrm-settings.php:1371
+msgid "Error message for the Message field"
+msgstr "pesan kesalahan untuk bidang Pesan"
+
+#: includes/class-cntctfrm-settings.php:1328
+#: includes/class-cntctfrm-settings.php:1372
+msgid "Error message for Limit for the Message field"
+msgstr "Pesan kesalahan untuk Batas untuk bidang Pesan"
+
+#: includes/class-cntctfrm-settings.php:1329
+#: includes/class-cntctfrm-settings.php:1373
+msgid "Error message about the file type for the Attachment field"
+msgstr "pesan kesalahan tentang jenis file untuk bidang Lampiran"
+
+#: includes/class-cntctfrm-settings.php:1330
+#: includes/class-cntctfrm-settings.php:1374
+msgid ""
+"Error message while uploading a file for the Attachment field to the server"
+msgstr "pesan kesalahan saat mengunggah file untuk bidang Lampiran ke server"
+
+#: includes/class-cntctfrm-settings.php:1331
+#: includes/class-cntctfrm-settings.php:1375
+msgid "Error message while moving the file for the Attachment field"
+msgstr "pesan kesalahan saat memindahkan file untuk bidang Lampiran"
+
+#: includes/class-cntctfrm-settings.php:1332
+#: includes/class-cntctfrm-settings.php:1376
+msgid "Error message when file size limit for the Attachment field is exceeded"
+msgstr "Pesan galat saat batas ukuran file untuk bidang Lampiran terlampaui"
+
+#: includes/class-cntctfrm-settings.php:1333
+#: includes/class-cntctfrm-settings.php:1377
+msgid "Error message for the Captcha field"
+msgstr "pesan kesalahan untuk bidang Captcha"
+
+#: includes/class-cntctfrm-settings.php:1334
+#: includes/class-cntctfrm-settings.php:1378
+msgid "Error message for the whole form"
+msgstr "pesan kesalahan untuk seluruh bentuk"
+
+#: includes/class-cntctfrm-settings.php:1394
+msgid "Use the changed names of the contact form fields in the email"
+msgstr "Gunakan nama yang diubah pada bidang formulir kontak di email"
+
+#: includes/class-cntctfrm-settings.php:1400
+msgid "Action after email is sent"
+msgstr "Tindakan setelah email dikirim"
+
+#: includes/class-cntctfrm-settings.php:1402
+msgid "Display text"
+msgstr "menampilkan teks"
+
+#: includes/class-cntctfrm-settings.php:1419
+#: includes/class-cntctfrm-settings.php:1436
+msgid "Text"
+msgstr "Teks"
+
+#: includes/class-cntctfrm-settings.php:1450
+msgid "Redirect to the page"
+msgstr "Redirect ke halaman"
+
+#: includes/class-cntctfrm-settings.php:1452
+msgid "Url"
+msgstr "url"
+
+#: includes/class-cntctfrm-settings.php:1475
+#, php-format
+msgid ""
+"Please enable JavaScript to change '%1$s', '%2$s', '%3$s', '%4$s' options "
+"and for fields sorting."
+msgstr ""
+"Aktifkan JavaScript untuk mengubah opsi '%1$s', '%2$s', '%3$s', '%4$s' dan "
+"untuk pengurutan bidang."
+
+#: includes/class-cntctfrm-settings.php:1476
+#: includes/class-cntctfrm-settings.php:1495
+msgid "Form layout"
+msgstr "tata letak bentuk"
+
+#: includes/class-cntctfrm-settings.php:1477
+#: includes/class-cntctfrm-settings.php:1563
+msgid "Labels position"
+msgstr "Posisi label"
+
+#: includes/class-cntctfrm-settings.php:1478
+#: includes/class-cntctfrm-settings.php:1581
+msgid "Labels align"
+msgstr "Label sejajar"
+
+#: includes/class-cntctfrm-settings.php:1479
+#: includes/class-cntctfrm-settings.php:1507
+msgid "Submit position"
+msgstr "Kirim posisi"
+
+#: includes/class-cntctfrm-settings.php:1480
+#: includes/class-cntctfrm-settings.php:1612
+msgid "Add tooltips"
+msgstr "menambahkan tooltips"
+
+#: includes/class-cntctfrm-settings.php:1481
+#: includes/class-cntctfrm-settings.php:1653
+msgid "Style options"
+msgstr "pilihan gaya"
+
+#: includes/class-cntctfrm-settings.php:1499
+msgid "One column"
+msgstr "satu kolom"
+
+#: includes/class-cntctfrm-settings.php:1502
+msgid "Two columns"
+msgstr "Dua kolom"
+
+#: includes/class-cntctfrm-settings.php:1511
+#: includes/class-cntctfrm-settings.php:1552
+#: includes/class-cntctfrm-settings.php:1570
+#: includes/class-cntctfrm-settings.php:1585
+msgid "Left"
+msgstr "Kiri"
+
+#: includes/class-cntctfrm-settings.php:1514
+#: includes/class-cntctfrm-settings.php:1558
+#: includes/class-cntctfrm-settings.php:1573
+#: includes/class-cntctfrm-settings.php:1591
+msgid "Right"
+msgstr "Kanan"
+
+#: includes/class-cntctfrm-settings.php:1519
+msgid "Width"
+msgstr "Lebar"
+
+#: includes/class-cntctfrm-settings.php:1527
+msgid "Custom"
+msgstr "Kustom"
+
+#: includes/class-cntctfrm-settings.php:1534
+msgid "px"
+msgstr "px"
+
+#: includes/class-cntctfrm-settings.php:1548
+msgid "Form align"
+msgstr "Form menyelaraskan"
+
+#: includes/class-cntctfrm-settings.php:1555
+#: includes/class-cntctfrm-settings.php:1588
+msgid "Center"
+msgstr "Pusat"
+
+#: includes/class-cntctfrm-settings.php:1567
+msgid "Top"
+msgstr "Puncak"
+
+#: includes/class-cntctfrm-settings.php:1576
+msgid "Bottom"
+msgstr "Bawah"
+
+#: includes/class-cntctfrm-settings.php:1596
+msgid "Errors output"
+msgstr "Keluaran kesalahan"
+
+#: includes/class-cntctfrm-settings.php:1599
+msgid "Display error messages"
+msgstr "pesan kesalahan display"
+
+#: includes/class-cntctfrm-settings.php:1600
+msgid "Color of the input field errors."
+msgstr "Warna kesalahan field input."
+
+#: includes/class-cntctfrm-settings.php:1601
+msgid "Display error messages & color of the input field errors"
+msgstr "pesan kesalahan layar & warna kesalahan field input"
+
+#: includes/class-cntctfrm-settings.php:1606
+msgid "Add placeholder to the input blocks"
+msgstr "Menambahkan placeholder ke blok masukan"
+
+#: includes/class-cntctfrm-settings.php:1626
+msgid "Email address"
+msgstr "Alamat email"
+
+#: includes/class-cntctfrm-settings.php:1657
+msgid "Text color"
+msgstr "Warna teks"
+
+#: includes/class-cntctfrm-settings.php:1662
+#: includes/class-cntctfrm-settings.php:1671
+#: includes/class-cntctfrm-settings.php:1684
+#: includes/class-cntctfrm-settings.php:1692
+#: includes/class-cntctfrm-settings.php:1700
+#: includes/class-cntctfrm-settings.php:1708
+#: includes/class-cntctfrm-settings.php:1721
+#: includes/class-cntctfrm-settings.php:1729
+#: includes/class-cntctfrm-settings.php:1741
+#: includes/class-cntctfrm-settings.php:1758
+#: includes/class-cntctfrm-settings.php:1766
+#: includes/class-cntctfrm-settings.php:1774
+msgid "Select Color"
+msgstr "Pilih Warna"
+
+#: includes/class-cntctfrm-settings.php:1665
+msgid "Label text color"
+msgstr "Warna teks Label"
+
+#: includes/class-cntctfrm-settings.php:1674
+msgid "Placeholder color"
+msgstr "warna placeholder"
+
+#: includes/class-cntctfrm-settings.php:1679
+msgid "Errors color"
+msgstr "warna kesalahan"
+
+#: includes/class-cntctfrm-settings.php:1687
+msgid "Error text color"
+msgstr "Warna teks kesalahan"
+
+#: includes/class-cntctfrm-settings.php:1695
+msgid "Background color of the input field errors"
+msgstr "warna latar belakang kesalahan field input"
+
+#: includes/class-cntctfrm-settings.php:1703
+msgid "Border color of the input field errors"
+msgstr "warna perbatasan kesalahan field input"
+
+#: includes/class-cntctfrm-settings.php:1711
+msgid "Placeholder color of the input field errors"
+msgstr "warna placeholder kesalahan field input"
+
+#: includes/class-cntctfrm-settings.php:1716
+msgid "Input fields"
+msgstr "Bidang masukan"
+
+#: includes/class-cntctfrm-settings.php:1724
+msgid "Input fields background color"
+msgstr "Input field warna latar belakang"
+
+#: includes/class-cntctfrm-settings.php:1732
+msgid "Text fields color"
+msgstr "Teks ladang warna"
+
+#: includes/class-cntctfrm-settings.php:1736
+msgid "Border width in px, numbers only"
+msgstr "Lebar batas dalam px, hanya angka"
+
+#: includes/class-cntctfrm-settings.php:1744
+#: includes/class-cntctfrm-settings.php:1777
+msgid "Border color"
+msgstr "warna perbatasan"
+
+#: includes/class-cntctfrm-settings.php:1749
+msgid "Submit button"
+msgstr "tombol Submit"
+
+#: includes/class-cntctfrm-settings.php:1753
+msgid "Width in px, numbers only"
+msgstr "Lebar di px, angka saja"
+
+#: includes/class-cntctfrm-settings.php:1761
+msgid "Button color"
+msgstr "warna tombol"
+
+#: includes/class-cntctfrm-settings.php:1769
+msgid "Button text color"
+msgstr "Warna teks tombol"
+
+#: includes/class-cntctfrm-settings.php:1789
+msgid "Contact Form | Preview"
+msgstr "Formulir Kontak | Pratinjau"
+
+#: includes/class-cntctfrm-settings.php:1790
+msgid "Drag the necessary field to sort fields."
+msgstr "Tarik bidang yang diperlukan untuk memilah bidang."
+
+#: includes/class-cntctfrm-settings.php:1948
+#, php-format
+msgid "between %1$d, and %2$d characters"
+msgstr "antara karakter %1$d, dan %2$d"
+
+#: includes/class-cntctfrm-settings.php:2144
+msgid "Contact Form Shortcode"
+msgstr "Kode Pendek Formulir Kontak"
+
+#: includes/class-cntctfrm-settings.php:2148
+msgid "Add Contact Form  to your page or post using the following shortcode:"
+msgstr ""
+"Tambahkan Formulir Kontak ke halaman atau postingan Anda menggunakan "
+"shortcode berikut:"
+
+#~ msgid "If you upgrade to Pro version all your settings will be saved."
+#~ msgstr ""
+#~ "Jika Anda meng-upgrade ke versi Pro semua pengaturan Anda akan disimpan."
+
+#~ msgid "Language settings for the field names in the form"
+#~ msgstr "Pengaturan bahasa untuk nama field dalam bentuk"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you would like to add the Contact Form to your website, just copy and "
+#~ "paste this shortcode to your post or page or widget"
+#~ msgstr ""
+#~ "Jika Anda ingin menambahkan Formulir Kontak ke website Anda, hanya copy "
+#~ "dan paste shortcode ini untuk posting atau halaman atau widget"
+
+#~ msgid "Save Changes"
+#~ msgstr "Simpan perubahan"
+
+#~ msgid "Contact Form"
+#~ msgstr "formulir kontak"
+
+#~ msgid "All plugin settings were restored."
+#~ msgstr "Semua pengaturan Plugin dipulihkan. "
+
+#~ msgid "How to Use Step-by-step Instruction"
+#~ msgstr "Cara Menggunakan Langkah-demi-langkah Instruksi"
+
+#, fuzzy
+#~ msgid "Additional settings"
+#~ msgstr "pengaturan tambahan"
+
+#~ msgid "Custom code"
+#~ msgstr "kode kustom"
+
+#~ msgid "Go PRO"
+#~ msgstr "Go PRO"
+
+#, fuzzy
+#~ msgid "Notice"
+#~ msgstr "Melihat"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you would like to add a Contact Form to your page or post, please use "
+#~ "%s button"
+#~ msgstr ""
+#~ "Jika Anda ingin menambahkan Formulir Kontak ke halaman Anda atau posting, "
+#~ "silakan gunakan %s tombol"
+
+#~ msgid ""
+#~ "You can add the Contact Form to your page or post by clicking on %s "
+#~ "button in the content edit block using the Visual mode. If the button "
+#~ "isn't displayed, please use the shortcode %s or %s where * stands for "
+#~ "Contact Form language."
+#~ msgstr ""
+#~ "Anda dapat menambahkan Form Kontak ke halaman Anda atau posting dengan "
+#~ "mengklik %s tombol di blok mengedit konten menggunakan modus Visual. Jika "
+#~ "tombol tidak ditampilkan, gunakan shortcode %s atau %s mana * singkatan "
+#~ "bahasa Form Kontak."
+
+#~ msgid "Add field 'Reply-To' to the email header"
+#~ msgstr "Menambahkan field 'Reply-To' ke header email"
+
+#~ msgid "Field 'Reply-To' will be initialized by user email"
+#~ msgstr "'Reply-To' lapangan akan diawali dengan email pengguna"
+
+#~ msgid "Auto Response"
+#~ msgstr "Respon otomatis"
+
+#~ msgid ""
+#~ "You can use %%NAME%% to display data from the email field and %%MESSAGE%% "
+#~ "to display data from the Message field, as well as %%SITENAME%% to "
+#~ "display blog name."
+#~ msgstr ""
+#~ "Anda dapat menggunakan %%NAME%% untuk menampilkan data dari lapangan "
+#~ "email dan %%MESSAGE%% untuk menampilkan data dari lapangan Pesan, serta %"
+#~ "%SITENAME%% untuk menampilkan nama blog."
+
+#~ msgid "Example: Sent from (IP address):\t127.0.0.1"
+#~ msgstr "Contoh: Dikirim dari (alamat IP): \\ t127.0.0.1"
+
+#~ msgid "Example: Date/Time:\tAugust 19, 2013 8:50 pm"
+#~ msgstr "Contoh: Tanggal / Waktu: \\ tAugust 19, 2013 20:50"
+
+#, fuzzy
+#~ msgid ""
+#~ "Example: Sent from (referer):\thttps://bestwebsoft.com/contacts/contact-"
+#~ "us/"
+#~ msgstr ""
+#~ "Contoh: Dikirim dari (referer): \\ thttps: //bestwebsoft.com/contacts/"
+#~ "contact-us/"
+
+#~ msgid ""
+#~ "Example: Using (user agent):\tMozilla/5.0 (Windows NT 6.2; WOW64) "
+#~ "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36"
+#~ msgstr ""
+#~ "Contoh: Menggunakan (agen pengguna): \\ tMozilla / 5.0 (Windows NT 6.2; "
+#~ "WOW64) AppleWebKit / 537,36 (KHTML, like Gecko) Chrome / 28.0.1500.95 "
+#~ "Safari / 537,36"
+
+#~ msgid ""
+#~ "Deprecated shortcode %1s from the %2s plugin is used on your site. Please "
+#~ "replace it with %3s. If you close this message it'll appear again after "
+#~ "deprecated shortcode reuse."
+#~ msgstr ""
+#~ "Usang shortcode% 1s dari% 2s plugin digunakan di situs Anda. Silahkan "
+#~ "ganti dengan% 3s. Jika Anda menutup pesan ini akan muncul lagi setelah "
+#~ "reuse shortcode usang."
+
+#~ msgid "Name:"
+#~ msgstr "Name:"
+
+#~ msgid "Address:"
+#~ msgstr "Adresse:"
+
+#~ msgid "Email Address:"
+#~ msgstr "E-Mail Adresse:"
+
+#~ msgid "Phone number:"
+#~ msgstr "Telefonnummer:"
+
+#~ msgid "Subject:"
+#~ msgstr "Betreff:"
+
+#~ msgid "Message:"
+#~ msgstr "Inhalt:"
+
+#~ msgid "Attachment:"
+#~ msgstr "Anhang:"
+
+#, fuzzy
+#~ msgid ""
+#~ "Please enable JavaScript to add language in the contact form, change the "
+#~ "names of the contact form fields and error messages."
+#~ msgstr "Verändere die Namen der Kontakt-Form-Felder und Fehlermeldungen"
+
+#~ msgid "What to use?"
+#~ msgstr "Was soll verwendet werden?"
+
+#, fuzzy
+#~ msgid "Using Contact Form to DB by BestWebSoft"
+#~ msgstr "Verwende 'Kontakt-Form in die DB' powered by"
+
+#, fuzzy
+#~ msgid "Activate Captcha"
+#~ msgstr "Aktiviere captcha"
+
+#, fuzzy
+#~ msgid "Download Captcha"
+#~ msgstr "Download captcha"
+
+#~ msgid "Phone"
+#~ msgstr "Telefonnummer"
+
+#~ msgid "To send mail you can use the php mail function"
+#~ msgstr "Um mails zu versenden, können sie die php mail Funktion verwenden."
+
+#~ msgid "English"
+#~ msgstr "Englisch"
+
+#~ msgid "or"
+#~ msgstr "oder"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you have any problems with the standard shortcode [contact_form], you "
+#~ "should use the shortcode"
+#~ msgstr ""
+#~ "Wenn sie irgendwelche Probleme mit dem standard shortcode [contact_form] "
+#~ "haben, sollten sie folgenden shortcode verwenden"
+
+#~ msgid "They work the same way."
+#~ msgstr "Sie arbeiten auf gleiche weise."
+
+#~ msgid ""
+#~ "If have any problems with the standard shortcode [contact_form], you "
+#~ "should use the shortcode"
+#~ msgstr ""
+#~ "Wenn sie irgendwelche Probleme mit dem standard shortcode [contact_form] "
+#~ "haben, sollten sie folgenden shortcode verwenden"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Die Einstellungen des Plugins wurden geändert. Um diese zu speichern "
+#~ "vergessen sie nicht auf 'Save Changes/Speicher Änderungen' zu klicken."
+
+#, fuzzy
+#~ msgid "Go"
+#~ msgstr "Go!"
+
+#~ msgid "Show with errors"
+#~ msgstr "Zeige mit Fehlern"
+
+#~ msgid "Please enter your full name..."
+#~ msgstr "Bitte geben sie Ihren vollen Namen ein... "
+
+#~ msgid "Please enter your address..."
+#~ msgstr "Bitte geben sie Ihre Adresse ein... "
+
+#~ msgid "Please enter your email address..."
+#~ msgstr "Bitte geben sie ihre E-Mail Adresse an ..."
+
+#~ msgid "Please enter your phone number..."
+#~ msgstr "Bitte geben sie Ihre Telefonnummer ein... "
+
+#~ msgid "Please enter subject..."
+#~ msgstr "Bitte geben sie Ihren Betreff an... "
+
+#~ msgid "Please enter your message..."
+#~ msgstr "Bitte geben sie Ihre Nachricht ein... "
+
+#~ msgid "powered by"
+#~ msgstr "powered by"
+
+#~ msgid "Activate Contact Form to DB"
+#~ msgstr "Aktiviere 'Kontakt-Form in die DB'"
+
+#~ msgid "Download Contact Form to DB"
+#~ msgstr "Lade 'Kontakt-Form in die DB' herunter"
+
+#~ msgid "Captcha"
+#~ msgstr "Captcha"
+
+#~ msgid "(powered by bestwebsoft.com)"
+#~ msgstr "(powered by bestwebsoft.com)"
+
+#~ msgid "requires"
+#~ msgstr "benötigt"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "oder höher, darum wurde es deaktiviert! Bitte rüsten sie WordPress auf "
+#~ "und versuchen sie es erneut."
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Zurück zu WordPress"
+
+#~ msgid "Plugins page"
+#~ msgstr "Plugin Seite"
+
+#~ msgid "Wrong license key"
+#~ msgstr "Falscher Lizenzschlüssel"
+
+#~ msgid ""
+#~ "Something went wrong. Try again later. If the error will appear again, "
+#~ "please, contact us <a href=http://support.bestwebsoft.com>BestWebSoft</"
+#~ "a>. We are sorry for inconvenience."
+#~ msgstr ""
+#~ "Etwas ging schief. Versuchen sie es später nochmals. Wenn der Fehler "
+#~ "erneut auftritt, bitte, kontaktieren sie uns <a href=http://support."
+#~ "bestwebsoft.com>BestWebSoft</a>. Wir entschuldigen für die Umstände."
+
+#~ msgid "This license key is bind to another site"
+#~ msgstr "Dieser Linzenz-Key ist an eine andere Seite gebunden."
+
+#~ msgid ""
+#~ "Unfortunately, you have exceeded the number of available tries per day. "
+#~ "Please, upload the plugin manually."
+#~ msgstr ""
+#~ "Leider haben sie die Anzahl an verfügbaren Versuchen pro Trag "
+#~ "überschritten. Bitte laden sie das Plugin manuell hoch"
+
+#~ msgid ""
+#~ "Failed to download the zip archive. Please, upload the plugin manually"
+#~ msgstr ""
+#~ "Download des zip Archives fehlgeschlagen. Bitte laden sie das Plugin "
+#~ "manuell hoch"
+
+#~ msgid "Failed to open the zip archive. Please, upload the plugin manually"
+#~ msgstr ""
+#~ "Fehler beim öffnen des zip Archives. Bitte laden sie das Plugin manuell "
+#~ "hoch"
+
+#~ msgid ""
+#~ "Your server does not support either ZipArchive or Phar. Please, upload "
+#~ "the plugin manually"
+#~ msgstr ""
+#~ "Ihr Server unterstützt kein ZipArchiv oder Phar. Bitte laden sie das "
+#~ "Plugin manuell hoch"
+
+#, fuzzy
+#~ msgid "UploadDir is not writable. Please, upload the plugin manually"
+#~ msgstr ""
+#~ "Fehler beim öffnen des zip Archives. Bitte laden sie das Plugin manuell "
+#~ "hoch"
+
+#~ msgid ""
+#~ "Something went wrong. Try again later or upload the plugin manually. We "
+#~ "are sorry for inconvienience."
+#~ msgstr ""
+#~ "Etwas ging schief. Versuchen sie es später oder laden sie das plugin "
+#~ "manuell hoch. Wir entschuldigen für die Umstände."
+
+#~ msgid "Please, enter Your license key"
+#~ msgstr "Bitte, geben sie Ihren Linzenzschlüssel ein"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr ""
+#~ "Wenn ihnen das Plugin gefällt, geben sie bitte 5 Sterne auf WordPress"
+
+#~ msgid "Rate the plugin"
+#~ msgstr "Bewerten Sie das Plugin"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Wenn etwas fehlerhaft ist, kontaktieren sie uns bitte"
+
+#~ msgid ""
+#~ "Congratulations! The PRO version of the plugin is successfully download "
+#~ "and activated."
+#~ msgstr ""
+#~ "Glückwunsch! Die PRO Version des Plugins wurde erfolgreich "
+#~ "heruntergeladen und aktiviert."
+
+#~ msgid "Please, go to"
+#~ msgstr "Bitte, gehen Sie nach"
+
+#~ msgid "You will be redirected automatically in 5 seconds."
+#~ msgstr "Sie werden in 5 Sekunden automatisch weitergeleitet"
+
+#~ msgid "You can download and activate"
+#~ msgstr "You can download and activate"
+
+#~ msgid "version of this plugin by entering Your license key."
+#~ msgstr "Version des Plugins durch Eingabe des Linzenzschlüssels."
+
+#~ msgid ""
+#~ "You can find your license key on your personal page Client area, by "
+#~ "clicking on the link"
+#~ msgstr ""
+#~ "Sie finden Ihren Linzenschlüssel auf Ihrer persönlichen Seite 'Client "
+#~ "area', durch klicken des Links"
+
+#~ msgid ""
+#~ "(your username is the email you specify when purchasing the product)."
+#~ msgstr "(ihr Benutzername ist die beim Kauf verwendte E-Mail)."
+
+#~ msgid "Extra settings"
+#~ msgstr "Weitere Einstellungen"
+
+#~ msgid "Show"
+#~ msgstr "Zeige"
+
+#~ msgid "Hide"
+#~ msgstr "Verstecke"
+
+#~ msgid "The text in the 'From' field"
+#~ msgstr "Der Text in dem Feld 'From/Von'"
+
+#~ msgid "This text will be used in the 'FROM' field"
+#~ msgstr "Dieser Text wird in dem Feld 'FROM/VON' stehen"
+
+#~ msgid "The email address in the 'From' field"
+#~ msgstr "Die E-Mail Adresse in dem Feld 'From/Von'"
+
+#~ msgid "This email address will be used in the 'From' field."
+#~ msgstr "Diese E-Mail Adresse wird in dem 'From/Von' Feld verwendet"
+
+#~ msgid "Go!"
+#~ msgstr "Go!"
+
+#~ msgid ""
+#~ "This functionality is available in the Pro version of the plugin. For "
+#~ "more details, please follow the link"
+#~ msgstr ""
+#~ "Diese Funktion ist in der Pro Version des plugins verfügbar. Für mehr "
+#~ "Details, folgen sie bitte dem Link"
+
+#~ msgid "Contact Form Pro"
+#~ msgstr "Kontakt-Form Pro"
+
+#, fuzzy
+#~ msgid "Contact Form Pro Extra Settings"
+#~ msgstr "Contact Form Opties"
+
+#, fuzzy
+#~ msgid "Contact Form Pro | Extra Settings"
+#~ msgstr "Contact Form Opties"
+
+#, fuzzy
+#~ msgid "Display fields"
+#~ msgstr "Toon tekst"
+
+#, fuzzy
+#~ msgid "Display tips below the Attachment block"
+#~ msgstr "Toon uitleg na Bijlage knop"
+
+#~ msgid "Required fields"
+#~ msgstr "Verplicht veld"
+
+#, fuzzy
+#~ msgid "Display the asterisk near required fields"
+#~ msgstr "Toon telefoonnummer veld"
+
+#~ msgid "You can attach the following file formats"
+#~ msgstr "Bestanden van de volgende formaten kunnen worden bijgevoegd"
+
+#, fuzzy
+#~ msgid "Memory usage"
+#~ msgstr "Bericht"
+
+#, fuzzy
+#~ msgid "Site URL"
+#~ msgstr "Website"
+
+#, fuzzy
+#~ msgid "Please enter a valid email address."
+#~ msgstr "Gebruik dit email adres:"
+
+#~ msgid "Installed plugins"
+#~ msgstr "Geïnstalleerde Plugins"
+
+#~ msgid "Recommended plugins"
+#~ msgstr "Aanbevolen Plugins"
+
+#~ msgid "Install %s"
+#~ msgstr "Installeer %s"
+
+#~ msgid "Install now from wordpress.org"
+#~ msgstr "Installeer nu via wordpress.org"
+
+#, fuzzy
+#~ msgid "Active Plugins"
+#~ msgstr "Geactiveerde plugins"
+
+#, fuzzy
+#~ msgid "Inactive Plugins"
+#~ msgstr "Geactiveerde plugins"
+
+#, fuzzy
+#~ msgid "Send to support"
+#~ msgstr "Ondersteuning"
+
+#~ msgid "Contact Form Options"
+#~ msgstr "Contact Form Opties"
+
+#~ msgid "Display Attachment tips"
+#~ msgstr "Toon Bijlage uitleg"
+
+#~ msgid "Please enter a valid email address. Settings are not saved."
+#~ msgstr "Geef een geldig email adres op. Instellingen zijn niet opgeslagen."
+
+#~ msgid "E-Mail Address"
+#~ msgstr "Email adres:"
+
+#~ msgid "E-Mail Addresse:"
+#~ msgstr "Indirizzo e-mail:"
+
+#~ msgid "Install Now"
+#~ msgstr "Installa Ora"

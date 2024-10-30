@@ -1,0 +1,1594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-18 14:57+0300\n"
+"PO-Revision-Date: 2024-09-18 14:58+0300\n"
+"Last-Translator: plugin@bestwebsoft.com <plugin@bestwebsoft.com>\n"
+"Language-Team: Feliks <feliks@veebimeister.com>\n"
+"Language: ca_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: contact_form.php:43 contact_form.php:52 contact_form.php:917
+#: includes/class-cntctfrm-settings.php:477
+msgid "Contact Form Settings"
+msgstr "Configuració del formulari de contacte"
+
+#: contact_form.php:53 contact_form.php:2145 contact_form.php:2165
+#: includes/class-cntctfrm-settings.php:30
+msgid "Settings"
+msgstr "Seaded"
+
+#: contact_form.php:76
+msgid "Upgrade to Pro"
+msgstr "Actualitza a Pro"
+
+#: contact_form.php:573 contact_form.php:1879 contact_form.php:1927
+#: includes/class-cntctfrm-settings.php:636
+#: includes/class-cntctfrm-settings.php:734
+#: includes/class-cntctfrm-settings.php:1310
+#: includes/class-cntctfrm-settings.php:1354
+#: includes/class-cntctfrm-settings.php:1616
+msgid "Name"
+msgstr "Nimi"
+
+#: contact_form.php:574 contact_form.php:1886 contact_form.php:1933
+#: includes/class-cntctfrm-settings.php:786
+#: includes/class-cntctfrm-settings.php:1311
+#: includes/class-cntctfrm-settings.php:1355
+#: includes/class-cntctfrm-settings.php:1621
+msgid "Address"
+msgstr "Adreça"
+
+#: contact_form.php:575 includes/class-cntctfrm-settings.php:808
+#: includes/class-cntctfrm-settings.php:1312
+#: includes/class-cntctfrm-settings.php:1356
+msgid "Email Address"
+msgstr "Correu electrònic"
+
+#: contact_form.php:576 includes/class-cntctfrm-settings.php:834
+#: includes/class-cntctfrm-settings.php:1313
+#: includes/class-cntctfrm-settings.php:1357
+msgid "Phone number"
+msgstr "Telefoni number"
+
+#: contact_form.php:577 contact_form.php:1897 contact_form.php:1942
+#: includes/class-cntctfrm-settings.php:856
+#: includes/class-cntctfrm-settings.php:1314
+#: includes/class-cntctfrm-settings.php:1358
+#: includes/class-cntctfrm-settings.php:1636
+msgid "Subject"
+msgstr "Pealkiri"
+
+#: contact_form.php:578 contact_form.php:1902 contact_form.php:1946
+#: includes/class-cntctfrm-settings.php:894
+#: includes/class-cntctfrm-settings.php:1315
+#: includes/class-cntctfrm-settings.php:1359
+#: includes/class-cntctfrm-settings.php:1640
+msgid "Message"
+msgstr "Sõnum"
+
+#: contact_form.php:579 includes/class-cntctfrm-settings.php:1316
+#: includes/class-cntctfrm-settings.php:1360
+#: includes/class-cntctfrm-settings.php:1645
+msgid "Attachment"
+msgstr "Manus"
+
+#: contact_form.php:580
+msgid ""
+"Supported file types: HTML, TXT, CSS, GIF, PNG, JPEG, JPG, TIFF, BMP, AI, "
+"EPS, PS, CSV, RTF, PDF, DOC, DOCX, XLS, XLSX, ZIP, RAR, WAV, MP3, PPT."
+msgstr ""
+"Toetatud failitüübid: HTML, TXT, CSS, GIF, PNG, JPEG, JPG, TIFF, BMP, AI, "
+"EPS, PS, CSV, RTF, PDF, DOC, DOCX, XLS, XLSX, ZIP, RAR, WAV, MP3, PPT."
+
+#: contact_form.php:581 includes/class-cntctfrm-settings.php:1318
+#: includes/class-cntctfrm-settings.php:1362
+msgid "Send me a copy"
+msgstr "Saada mulle koopia"
+
+#: contact_form.php:582 includes/class-cntctfrm-settings.php:1319
+#: includes/class-cntctfrm-settings.php:1363
+msgid "I consent to having this site collect my personal data."
+msgstr "Accepto que aquest lloc reculli les meves dades personals."
+
+#: contact_form.php:583 contact_form.php:2261
+#: includes/class-cntctfrm-settings.php:1320
+#: includes/class-cntctfrm-settings.php:1364
+msgid "Learn more"
+msgstr "Saber-ne més"
+
+#: contact_form.php:584 includes/class-cntctfrm-settings.php:1321
+#: includes/class-cntctfrm-settings.php:1365
+msgid "Submit"
+msgstr "Saada"
+
+#: contact_form.php:585
+msgid "Your name is required."
+msgstr "Sinu nimi on kohustuslik."
+
+#: contact_form.php:586
+msgid "Address is required."
+msgstr "Cal adreça."
+
+#: contact_form.php:587
+msgid "A valid email address is required."
+msgstr "Korrektne e-mail on kohustuslik."
+
+#: contact_form.php:588
+msgid "Phone number is required."
+msgstr "Telefoni number on kohustuslik."
+
+#: contact_form.php:589
+msgid "Subject is required."
+msgstr "Pealkiri on kohustuslik."
+
+#: contact_form.php:590
+msgid "Message text is required."
+msgstr "Sõnumi tekst on kohustuslik."
+
+#: contact_form.php:591
+msgid "Message length does not meet requirements."
+msgstr "La longitud del missatge no compleix els requisits."
+
+#: contact_form.php:592
+msgid "File format is not valid."
+msgstr "Failiformaat pole toetatud."
+
+#: contact_form.php:593
+msgid "File upload error."
+msgstr "Error faili üles laadimisel."
+
+#: contact_form.php:594
+msgid "The file could not be uploaded."
+msgstr "Faili ei saanud üles laadida."
+
+#: contact_form.php:595
+msgid "This file is too large."
+msgstr "See fail on liiga suur."
+
+#: contact_form.php:596
+msgid "Please fill out the CAPTCHA."
+msgstr "Palun täida CAPTCHA."
+
+#: contact_form.php:597
+msgid "Please make corrections below and try again."
+msgstr "Palun tee allolevad parandused ja proovi uuesti."
+
+#: contact_form.php:599
+msgid "Thank you for contacting us."
+msgstr "Tänan meiega kontakteerumast."
+
+#: contact_form.php:936
+#, php-format
+msgid ""
+"%1$sNote:%2$s The contact form is not protected from spam and bots. Use %3$s "
+"Captcha by BestWebSoft plugin %5$s or %4$s reCaptcha by BestWebSoft plugin "
+"%5$s to protect your contact form."
+msgstr ""
+"%1$sNota:%2$s el formulari de contacte no està protegit del correu brossa i "
+"dels robots. Utilitzeu el %3$s connector Captcha by BestWebSoft %5$s o el "
+"%4$s connector reCaptcha by BestWebSoft %5$s per protegir el vostre "
+"formulari de contacte."
+
+#: contact_form.php:945
+msgid "NEW_FORM"
+msgstr "NEW_FORM"
+
+#: contact_form.php:946
+msgid ""
+"If you want to create multiple contact forms, please install the Contact "
+"Form Multi plugin."
+msgstr ""
+"Kui soovid sisestada mitut kontaktivormi, siis installi Contact Form Multi "
+"plugin."
+
+#: contact_form.php:951
+msgid ""
+"Contact Form plugin doesn't support your current version of Contact Form "
+"Multi plugin. Please update Contact Form Multi plugin to version 1.2.6 or "
+"higher."
+msgstr ""
+"El connector Formulari de contacte no admet la versió actual del connector "
+"Multi formulari de contacte. Actualitzeu el formulari de contacte Multi "
+"plugin a la versió 1.2.6 o superior."
+
+#: contact_form.php:1065
+msgid "Sorry, email message could not be delivered."
+msgstr "Vabandust, see kiri jäi saatmata."
+
+#: contact_form.php:1103 contact_form.php:1159
+msgid ""
+"Please enter only letters at least 3 characters, words seperated by spaces"
+msgstr ""
+"Introduïu només lletres d'almenys 3 caràcters, paraules separades per espais"
+
+#: contact_form.php:1117
+msgid ""
+"Please enter only letters and numbers at least 3 characters, words seperated "
+"by spaces"
+msgstr ""
+"Introduïu només lletres i números d'almenys 3 caràcters, paraules separades "
+"per espais"
+
+#: contact_form.php:1145
+msgid "Please enter only numbers at least 6 characters"
+msgstr "Introduïu només números d'almenys 6 caràcters"
+
+#: contact_form.php:1497
+#, php-format
+msgid "between %1$d and %2$d characters"
+msgstr "entre %1$d i %2$d caràcters"
+
+#: contact_form.php:1504 includes/class-cntctfrm-settings.php:1954
+#, php-format
+msgid "more than %1$d characters"
+msgstr "més de %1$d caràcters"
+
+#: contact_form.php:1510 includes/class-cntctfrm-settings.php:1959
+#, php-format
+msgid "less than %1$d characters"
+msgstr "menys de %1$d caràcters"
+
+#: contact_form.php:1831 contact_form.php:1833
+msgid "Sent from (ip address)"
+msgstr "Saadetud (IP aadress)"
+
+#: contact_form.php:1838 contact_form.php:1840
+#: includes/class-cntctfrm-settings.php:1262
+msgid "Date/Time"
+msgstr "Kuupäev/Aeg"
+
+#: contact_form.php:1845 contact_form.php:1847
+#: includes/class-cntctfrm-settings.php:1263
+msgid "Sent from (referer)"
+msgstr "Saadetud (referer)"
+
+#: contact_form.php:1852 contact_form.php:1854
+#: includes/class-cntctfrm-settings.php:1264
+msgid "Using (user agent)"
+msgstr "Kasutab (user agent)"
+
+#: contact_form.php:1865
+msgid "Contact from"
+msgstr "Kontakti vorm"
+
+#: contact_form.php:1870 contact_form.php:1920
+msgid "Site"
+msgstr "Leht"
+
+#: contact_form.php:1892 contact_form.php:1938
+#: includes/class-cntctfrm-settings.php:660
+msgid "Email"
+msgstr "Correu electrònic"
+
+#: contact_form.php:1908 contact_form.php:1951
+#: includes/class-cntctfrm-settings.php:1631
+msgid "Phone Number"
+msgstr "Telefoni number"
+
+#: contact_form.php:2060
+msgid ""
+"If you can see this MIME, it means that the MIME type is not supported by "
+"your email client!"
+msgstr ""
+"Kui sa näed seda MIME-t, siis MIME tüüp pole sinu e-maili kliendi poolt "
+"toetatud!"
+
+#: contact_form.php:2167
+msgid "FAQ"
+msgstr "KKK"
+
+#: contact_form.php:2168
+msgid "Support"
+msgstr "Klienditugi"
+
+#: contact_form.php:2232
+msgid "Are you sure that you want to delete this language data?"
+msgstr "Oled sa kindel, et soovid kustutada selle keele andmeid?"
+
+#: contact_form.php:2256
+msgid "Add multiple forms"
+msgstr "Afegeix diversos formularis"
+
+#: contact_form.php:2256
+msgid ""
+"Install Contact Form Multi plugin to create unlimited number of contact "
+"forms."
+msgstr ""
+"Instal·leu el connector Multi formulari de contacte per crear un nombre "
+"il·limitat de formularis de contacte."
+
+#: contact_form.php:2265 includes/class-cntctfrm-settings.php:526
+#: includes/class-cntctfrm-settings.php:984
+#: includes/class-cntctfrm-settings.php:1218
+#: includes/class-cntctfrm-settings.php:1544
+msgid "Close"
+msgstr "Tancar"
+
+#: contact_form.php:2332
+msgid "Error"
+msgstr "Error"
+
+#: contact_form.php:2332 contact_form.php:2334
+msgid "Illegal language code"
+msgstr "Codi de llengua no vàlid"
+
+#: contact_form.php:2366 contact_form.php:2368
+#: includes/class-cntctfrm-settings.php:1337
+#: includes/class-cntctfrm-settings.php:1339
+#: includes/class-cntctfrm-settings.php:1381
+#: includes/class-cntctfrm-settings.php:1383
+#: includes/class-cntctfrm-settings.php:1421
+#: includes/class-cntctfrm-settings.php:1423
+#: includes/class-cntctfrm-settings.php:1438
+#: includes/class-cntctfrm-settings.php:1440
+msgid "Use shortcode"
+msgstr "Kasuta lühikoodi"
+
+#: contact_form.php:2366 contact_form.php:2368
+#: includes/class-cntctfrm-settings.php:1337
+#: includes/class-cntctfrm-settings.php:1339
+#: includes/class-cntctfrm-settings.php:1381
+#: includes/class-cntctfrm-settings.php:1383
+#: includes/class-cntctfrm-settings.php:1421
+#: includes/class-cntctfrm-settings.php:1423
+#: includes/class-cntctfrm-settings.php:1438
+#: includes/class-cntctfrm-settings.php:1440
+msgid "for this language"
+msgstr "selle keele jaoks"
+
+#: contact_form.php:2511
+msgid "Test your contact form"
+msgstr "Prova el teu formulari de contacte"
+
+#: contact_form.php:2511
+msgid ""
+"Ensure your contact form are correctly configured. Check your settings now!"
+msgstr ""
+"Assegureu-vos que el vostre formulari de contacte estigui configurat "
+"correctament. Comproveu ara la vostra configuració!"
+
+#: contact_form.php:2560
+msgid "Close notice"
+msgstr "Tancar avís"
+
+#: contact_form.php:2565
+msgid "allows to store your messages to the database."
+msgstr "permet emmagatzemar els missatges a la base de dades."
+
+#: contact_form.php:2566
+msgid "Manage messages that have been sent from your website."
+msgstr "Toimeta sõnumeid, mis on sulle saadetud sinu veebilehelt."
+
+#: contact_form.php:2569
+msgid "Learn More"
+msgstr "Uuri lähemalt"
+
+#: contact_form.php:2639
+msgid "Contact form"
+msgstr "Formulari Contacte"
+
+#: contact_form.php:2654 contact_form.php:2666
+msgid "Language"
+msgstr "Idioma"
+
+#: includes/class-cntctfrm-settings.php:31
+#: includes/class-cntctfrm-settings.php:608
+msgid "Additional Settings"
+msgstr "Configuració addicional"
+
+#: includes/class-cntctfrm-settings.php:32
+#: includes/class-cntctfrm-settings.php:1466
+msgid "Appearance"
+msgstr "Aparença"
+
+#: includes/class-cntctfrm-settings.php:33
+msgid "Misc"
+msgstr "Misc"
+
+#: includes/class-cntctfrm-settings.php:34
+msgid "Custom Code"
+msgstr "Codi personalitzat"
+
+#: includes/class-cntctfrm-settings.php:35
+msgid "License Key"
+msgstr "Clau de llicència"
+
+#: includes/class-cntctfrm-settings.php:111
+msgid "Please enable JavaScript in your browser."
+msgstr "Si us plau, activeu JavaScript al vostre navegador."
+
+#: includes/class-cntctfrm-settings.php:113
+#, php-format
+msgid ""
+"Contact Form plugin requires PHP %s or higher. Please contact your hosting "
+"provider to upgrade PHP version."
+msgstr ""
+"El connector formulari de contacte requereix que php %s o superior. Poseu-"
+"vos en contacte amb el vostre proveïdor d'allotjament per actualitzar la "
+"versió PHP."
+
+#: includes/class-cntctfrm-settings.php:143
+msgid "Sorry, your nonce did not verify."
+msgstr "Ho sento, el teu nonce no ho va verificar."
+
+#: includes/class-cntctfrm-settings.php:211
+msgid "Min / Max symbols in the message cannot be empty."
+msgstr "Els símbols mínim/màxim del missatge no poden estar buits."
+
+#: includes/class-cntctfrm-settings.php:399
+msgid ""
+"Email 'FROM' field option was changed, which may cause email messages being "
+"moved to the spam folder or email delivery failures."
+msgstr ""
+"S'ha canviat l'opció de camp \"DE\" del correu electrònic, la qual cosa pot "
+"provocar que els missatges de correu electrònic es moguin a la carpeta de "
+"correu brossa o als errors de lliurament de correu electrònic."
+
+#: includes/class-cntctfrm-settings.php:409
+msgid ""
+"If the 'Redirect to page' option is selected then the URL field should be in "
+"the following format"
+msgstr ""
+"Kui 'Suuna lehele' valik on aktiveeritud, siis URL-i väli peab olema "
+"järgnevas formaadis"
+
+#: includes/class-cntctfrm-settings.php:414
+msgid "Such user does not exist."
+msgstr "Aquest usuari no existeix."
+
+#: includes/class-cntctfrm-settings.php:423
+msgid ""
+"Please enter a valid email address in the 'Use this email address' field."
+msgstr ""
+"Introduïu una adreça electrònica vàlida al camp \"Utilitza aquesta adreça "
+"electrònica\"."
+
+#: includes/class-cntctfrm-settings.php:431
+msgid "Please enter a valid email address in the 'FROM' field."
+msgstr "Introduïu una adreça electrònica vàlida al camp \"DE\"."
+
+#: includes/class-cntctfrm-settings.php:452
+msgid "Settings saved."
+msgstr "Seaded salvestatud."
+
+#: includes/class-cntctfrm-settings.php:454
+msgid "Settings are not saved."
+msgstr "Seaded pole salvestatud."
+
+#: includes/class-cntctfrm-settings.php:481
+msgid ""
+"If you leave the fields empty, the messages will be sent to the email "
+"address specified during registration."
+msgstr ""
+"Kui sa jätad selle välja tühjaks, siis sõnumid saadetakse registreerumisel "
+"antud e-maili aadressile."
+
+#: includes/class-cntctfrm-settings.php:484
+msgid "The user's email address"
+msgstr "Adreça electrònica de l'usuari"
+
+#: includes/class-cntctfrm-settings.php:489
+msgid "Select a username"
+msgstr "Seleccioneu un nom d'usuari"
+
+#: includes/class-cntctfrm-settings.php:508
+msgid ""
+"Select a username of the person who should get the messages from the contact "
+"form."
+msgstr ""
+"Seleccioneu un nom d'usuari de la persona que hauria de rebre els missatges "
+"del formulari de contacte."
+
+#: includes/class-cntctfrm-settings.php:513
+msgid "Use this email address"
+msgstr "Utilitzeu aquesta adreça electrònica"
+
+#: includes/class-cntctfrm-settings.php:518
+msgid ""
+"Enter multiple email addresses separated by comma for receiving messages."
+msgstr ""
+"Introduïu diverses adreces de correu electrònic separades per comes per "
+"rebre missatges."
+
+#: includes/class-cntctfrm-settings.php:530
+msgid "Add department selectbox to the contact form"
+msgstr ""
+"Afegeix la casella de selecció del departament al formulari de contacte"
+
+#: includes/class-cntctfrm-settings.php:543
+msgid "Save emails to the database"
+msgstr "Salvesta e-mailid andmebaasi"
+
+#: includes/class-cntctfrm-settings.php:556
+#: includes/class-cntctfrm-settings.php:576
+#: includes/class-cntctfrm-settings.php:585
+msgid "Using"
+msgstr "Kasutan"
+
+#: includes/class-cntctfrm-settings.php:562
+#: includes/class-cntctfrm-settings.php:1087
+#: includes/class-cntctfrm-settings.php:1142
+#: includes/class-cntctfrm-settings.php:1187
+msgid "Please activate the appropriate option on"
+msgstr "Activeu l'opció adequada a"
+
+#: includes/class-cntctfrm-settings.php:567
+#: includes/class-cntctfrm-settings.php:1092
+#: includes/class-cntctfrm-settings.php:1147
+#: includes/class-cntctfrm-settings.php:1192
+msgid "settings page"
+msgstr "pàgina de configuració"
+
+#: includes/class-cntctfrm-settings.php:577
+#: includes/class-cntctfrm-settings.php:1104
+#: includes/class-cntctfrm-settings.php:1159
+#: includes/class-cntctfrm-settings.php:1203
+msgid "Activate"
+msgstr "Activa"
+
+#: includes/class-cntctfrm-settings.php:586
+#: includes/class-cntctfrm-settings.php:1116
+#: includes/class-cntctfrm-settings.php:1167
+#: includes/class-cntctfrm-settings.php:1210
+msgid "Download"
+msgstr "Descàrrega"
+
+#: includes/class-cntctfrm-settings.php:613
+msgid "Sending method"
+msgstr "Mètode d'enviament"
+
+#: includes/class-cntctfrm-settings.php:618
+msgid "Wp-mail"
+msgstr "Wp-mail"
+
+#: includes/class-cntctfrm-settings.php:619
+msgid "You can use the WordPress wp_mail function for mailing"
+msgstr "Podeu utilitzar la funció wp_mail de WordPress per enviar correu"
+
+#: includes/class-cntctfrm-settings.php:624
+msgid "Mail"
+msgstr "Correu"
+
+#: includes/class-cntctfrm-settings.php:625
+msgid "You can use the PHP mail function for mailing"
+msgstr "Podeu utilitzar la funció de correu PHP per enviar"
+
+#: includes/class-cntctfrm-settings.php:631
+msgid "'FROM' field"
+msgstr "Camp 'FROM'"
+
+#: includes/class-cntctfrm-settings.php:647
+msgid "User name"
+msgstr "Kasutaja nimi"
+
+#: includes/class-cntctfrm-settings.php:649
+msgid ""
+"The name of the user who fills the form will be used in the field 'From'."
+msgstr "Kasutaja nime (kes täidab vormi) kasutatakse 'Kellelt' väljal."
+
+#: includes/class-cntctfrm-settings.php:671
+msgid "User email"
+msgstr "Kasutaja e-mail"
+
+#: includes/class-cntctfrm-settings.php:673
+msgid ""
+"The email address of the user who fills the form will be used in the field "
+"'From'."
+msgstr ""
+"Selle kasutaja, kes täidab vormi, e-maili aadressi kasutatakse 'Kellelt' "
+"väljal."
+
+#: includes/class-cntctfrm-settings.php:682
+msgid ""
+"If this option is changed, email messages may be moved to the spam folder or "
+"email delivery failures may occur."
+msgstr ""
+"Si es canvia aquesta opció, és possible que els missatges de correu "
+"electrònic es moguin a la carpeta de correu brossa o als errors de "
+"lliurament de correu electrònic."
+
+#: includes/class-cntctfrm-settings.php:691
+msgid "Required symbol"
+msgstr "Nõutud sümbol"
+
+#: includes/class-cntctfrm-settings.php:701
+msgid "Fields"
+msgstr "Väljad"
+
+#: includes/class-cntctfrm-settings.php:702
+#: includes/class-cntctfrm-settings.php:721
+#: includes/class-cntctfrm-settings.php:737
+#: includes/class-cntctfrm-settings.php:768
+#: includes/class-cntctfrm-settings.php:789
+#: includes/class-cntctfrm-settings.php:811
+#: includes/class-cntctfrm-settings.php:837
+#: includes/class-cntctfrm-settings.php:862
+#: includes/class-cntctfrm-settings.php:900
+#: includes/class-cntctfrm-settings.php:940
+#: includes/class-cntctfrm-settings.php:992
+msgid "Used"
+msgstr "Kasutatud"
+
+#: includes/class-cntctfrm-settings.php:703
+#: includes/class-cntctfrm-settings.php:725
+#: includes/class-cntctfrm-settings.php:741
+#: includes/class-cntctfrm-settings.php:772
+#: includes/class-cntctfrm-settings.php:793
+#: includes/class-cntctfrm-settings.php:815
+#: includes/class-cntctfrm-settings.php:841
+#: includes/class-cntctfrm-settings.php:871
+#: includes/class-cntctfrm-settings.php:909
+#: includes/class-cntctfrm-settings.php:993
+msgid "Required"
+msgstr "Nõutud"
+
+#: includes/class-cntctfrm-settings.php:706
+#: includes/class-cntctfrm-settings.php:747
+#: includes/class-cntctfrm-settings.php:819
+#: includes/class-cntctfrm-settings.php:878
+#: includes/class-cntctfrm-settings.php:915
+#: includes/class-cntctfrm-settings.php:994
+msgid "Visible"
+msgstr "Nähtav"
+
+#: includes/class-cntctfrm-settings.php:707
+#: includes/class-cntctfrm-settings.php:751
+#: includes/class-cntctfrm-settings.php:823
+#: includes/class-cntctfrm-settings.php:882
+#: includes/class-cntctfrm-settings.php:919
+#: includes/class-cntctfrm-settings.php:995
+msgid "Disabled for editing"
+msgstr "Toimetamiseks välja lülitatud"
+
+#: includes/class-cntctfrm-settings.php:708
+#: includes/class-cntctfrm-settings.php:778
+#: includes/class-cntctfrm-settings.php:886
+#: includes/class-cntctfrm-settings.php:923
+msgid "Field's default value"
+msgstr "Välja vaikeseades väärtus"
+
+#: includes/class-cntctfrm-settings.php:718
+msgid "Department selectbox"
+msgstr "Quadre de selecció del departament"
+
+#: includes/class-cntctfrm-settings.php:755
+msgid "Use User's name as a default value if the user is logged in."
+msgstr ""
+"Utilitzeu el nom de l'usuari com a valor per defecte si l'usuari ha iniciat "
+"la sessió."
+
+#: includes/class-cntctfrm-settings.php:756
+#: includes/class-cntctfrm-settings.php:828
+msgid ""
+"'Visible' and 'Disabled for editing' options will be applied only to logged-"
+"in users."
+msgstr ""
+"Les opcions \"Visible\" i \"Desactivat per a l'edició\" només s'aplicaran "
+"als usuaris que hagin iniciat sessió."
+
+#: includes/class-cntctfrm-settings.php:765
+msgid "Location selectbox"
+msgstr "Quadre de selecció Ubicació"
+
+#: includes/class-cntctfrm-settings.php:827
+msgid "Use User's email as a default value if the user is logged in."
+msgstr ""
+"Utilitzeu el correu electrònic de l'usuari com a valor per defecte si "
+"l'usuari ha iniciat la sessió."
+
+#: includes/class-cntctfrm-settings.php:849
+#, php-format
+msgid ""
+"Specify a mask which will be used for the phone validation, where * is a "
+"number. Use only the following symbols: %s"
+msgstr ""
+"Especifiqueu una màscara que s'utilitzarà per a la validació del telèfon, on "
+"* és un número. Utilitzeu només els símbols següents: %s"
+
+#: includes/class-cntctfrm-settings.php:933
+msgid "Attachment block"
+msgstr "Manuste blokk"
+
+#: includes/class-cntctfrm-settings.php:935
+msgid "Users can attach the following file formats"
+msgstr "Kasutajad saavad lisada manuseid järgnevates formaatides"
+
+#: includes/class-cntctfrm-settings.php:958
+msgid "Multi-attachment"
+msgstr "Diversos fitxers adjunts"
+
+#: includes/class-cntctfrm-settings.php:960
+msgid "Enable to multiple file selection"
+msgstr "Habilita a la selecció de diversos fitxers"
+
+#: includes/class-cntctfrm-settings.php:990
+msgid "Title"
+msgstr "Títol"
+
+#: includes/class-cntctfrm-settings.php:991
+msgid "Field Type"
+msgstr "Tipus de Camp"
+
+#: includes/class-cntctfrm-settings.php:996
+msgid "Field's default/available value"
+msgstr "Valor predeterminat/disponible del camp"
+
+#: includes/class-cntctfrm-settings.php:1021
+msgid "Create Field"
+msgstr "Crea un camp"
+
+#: includes/class-cntctfrm-settings.php:1026
+msgid "Google Analytics Measurement ID"
+msgstr "Identificador de mesurament de Google Analytics"
+
+#: includes/class-cntctfrm-settings.php:1031
+#, php-format
+msgid ""
+"Enter your %1$sMeasurement ID%2$s to track contact form submissions in "
+"Google Analytics."
+msgstr ""
+"Introduïu el vostre %1$sID de mesurament%2$s per fer un seguiment dels "
+"enviaments de formularis de contacte a Google Analytics."
+
+#: includes/class-cntctfrm-settings.php:1032
+msgid "Google Analytics version 4 is required."
+msgstr "Es requereix la versió 4 de Google Analytics."
+
+#: includes/class-cntctfrm-settings.php:1045
+msgid "Add to the form"
+msgstr "Lisa vormile"
+
+#: includes/class-cntctfrm-settings.php:1050
+msgid "Tips below the Attachment"
+msgstr "Vihjed manuse alla"
+
+#: includes/class-cntctfrm-settings.php:1057
+msgid "'Send me a copy' block"
+msgstr "Bloc 'Envia'm una còpia'"
+
+#: includes/class-cntctfrm-settings.php:1064
+msgid "GDPR Compliance"
+msgstr "Compliment GDPR"
+
+#: includes/class-cntctfrm-settings.php:1069
+msgid "Link to Privacy Policy Page"
+msgstr "Pàgina d'enllaç a la política de privadesa"
+
+#: includes/class-cntctfrm-settings.php:1106
+msgid "Activate for network"
+msgstr "Activa per a la xarxa"
+
+#: includes/class-cntctfrm-settings.php:1222
+msgid "Agreement checkbox"
+msgstr "Nõustumise kastike"
+
+#: includes/class-cntctfrm-settings.php:1222
+msgid "Required checkbox for submitting the form"
+msgstr "Nõutud kastike vormi saatmiseks"
+
+#: includes/class-cntctfrm-settings.php:1223
+msgid "Optional checkbox"
+msgstr "Valikuline kastike"
+
+#: includes/class-cntctfrm-settings.php:1223
+msgid "Optional checkbox, the results of which will be displayed in email"
+msgstr "Valikuline kastike, mille tulemusi näidatakse e-mailis"
+
+#: includes/class-cntctfrm-settings.php:1234
+msgid "Delete an attachment file from the server after the email is sent"
+msgstr "Kustuta manuse fail serverist peale e-maili saatmist"
+
+#: includes/class-cntctfrm-settings.php:1240
+msgid "Email in HTML format sending"
+msgstr "Correu electrònic en format HTML d'enviament"
+
+#: includes/class-cntctfrm-settings.php:1244
+msgid "Limit for Message field"
+msgstr "Límit per al camp Missatge"
+
+#: includes/class-cntctfrm-settings.php:1246
+msgid "Min / Max symbols in the message"
+msgstr "Símbols min/max al missatge"
+
+#: includes/class-cntctfrm-settings.php:1248
+msgid "min"
+msgstr "min"
+
+#: includes/class-cntctfrm-settings.php:1249
+msgid "max"
+msgstr "màx"
+
+#: includes/class-cntctfrm-settings.php:1254
+msgid "Display additional info in the email"
+msgstr "Näita e-mailis lisainfot"
+
+#: includes/class-cntctfrm-settings.php:1261
+msgid "Sent from (IP address)"
+msgstr "Enviat des de (adreça IP)"
+
+#: includes/class-cntctfrm-settings.php:1261
+msgid "Example: Sent from (IP address): 127.0.0.1"
+msgstr "Exemple: enviat des de (adreça IP): 127.0.0.1"
+
+#: includes/class-cntctfrm-settings.php:1262
+msgid "Example: Date/Time: August 19, 2013 8:50 pm"
+msgstr "Exemple: Data/Hora: 19 d'agost de 2013 20:50 h"
+
+#: includes/class-cntctfrm-settings.php:1263
+msgid ""
+"Example: Sent from (referer):   https://bestwebsoft.com/contacts/contact-us/"
+msgstr ""
+"Exemple: enviat des del (referèndum): https://bestwebsoft.com/contacts/"
+"contact-us/"
+
+#: includes/class-cntctfrm-settings.php:1264
+msgid ""
+"Example: Using (user agent): Mozilla/5.0 (Windows NT 6.2; WOW64) "
+"AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36"
+msgstr ""
+"Exemple: ús (agent d'usuari): Mozilla/5.0 (Windows NT 6.2; WOW64) "
+"AppleWebKit/537.36 (KHTML, com Gecko) Chrome/28.0.1500.95 Safari/537.36"
+
+#: includes/class-cntctfrm-settings.php:1270
+msgid "Language Settings"
+msgstr "Configuració d'idioma"
+
+#: includes/class-cntctfrm-settings.php:1283
+msgid "Add a language"
+msgstr "Lisa keel"
+
+#: includes/class-cntctfrm-settings.php:1287
+msgid "Change the names of the contact form fields and error messages"
+msgstr "Muuda kontakti vormi väljade ja error-sõnumite nimesid"
+
+#: includes/class-cntctfrm-settings.php:1293
+#: includes/class-cntctfrm-settings.php:1404
+#: includes/class-cntctfrm-settings.php:1523
+msgid "Default"
+msgstr "Vaikimisi valik"
+
+#: includes/class-cntctfrm-settings.php:1308
+#: includes/class-cntctfrm-settings.php:1352
+msgid "click to expand/hide the list"
+msgstr "feu clic per expandir/amagar la llista"
+
+#: includes/class-cntctfrm-settings.php:1317
+#: includes/class-cntctfrm-settings.php:1361
+msgid "Tips below the Attachment block"
+msgstr "Vihje manuse bloki all"
+
+#: includes/class-cntctfrm-settings.php:1322
+#: includes/class-cntctfrm-settings.php:1366
+msgid "Error message for the Name field"
+msgstr "Error väljal 'Nimi'"
+
+#: includes/class-cntctfrm-settings.php:1323
+#: includes/class-cntctfrm-settings.php:1367
+msgid "Error message for the Address field"
+msgstr "Error väljal 'Aadress'"
+
+#: includes/class-cntctfrm-settings.php:1324
+#: includes/class-cntctfrm-settings.php:1368
+msgid "Error message for the Email field"
+msgstr "Error väljal 'E-mail'"
+
+#: includes/class-cntctfrm-settings.php:1325
+#: includes/class-cntctfrm-settings.php:1369
+msgid "Error message for the Phone field"
+msgstr "Error väljal 'Telefon'"
+
+#: includes/class-cntctfrm-settings.php:1326
+#: includes/class-cntctfrm-settings.php:1370
+msgid "Error message for the Subject field"
+msgstr "Error väljal 'Pealkiri'"
+
+#: includes/class-cntctfrm-settings.php:1327
+#: includes/class-cntctfrm-settings.php:1371
+msgid "Error message for the Message field"
+msgstr "Error väljal 'Sõnum'"
+
+#: includes/class-cntctfrm-settings.php:1328
+#: includes/class-cntctfrm-settings.php:1372
+msgid "Error message for Limit for the Message field"
+msgstr "Missatge d'error per al camp Límit del missatge"
+
+#: includes/class-cntctfrm-settings.php:1329
+#: includes/class-cntctfrm-settings.php:1373
+msgid "Error message about the file type for the Attachment field"
+msgstr "Error faili tüübi kohta manuse väljal"
+
+#: includes/class-cntctfrm-settings.php:1330
+#: includes/class-cntctfrm-settings.php:1374
+msgid ""
+"Error message while uploading a file for the Attachment field to the server"
+msgstr "Error faili üles laadimisel serverisse manuse välja jaoks"
+
+#: includes/class-cntctfrm-settings.php:1331
+#: includes/class-cntctfrm-settings.php:1375
+msgid "Error message while moving the file for the Attachment field"
+msgstr "Missatge d'error en moure el fitxer per al camp Adjunt"
+
+#: includes/class-cntctfrm-settings.php:1332
+#: includes/class-cntctfrm-settings.php:1376
+msgid "Error message when file size limit for the Attachment field is exceeded"
+msgstr "Error ületades faili suuruse limiiti manuse väljal"
+
+#: includes/class-cntctfrm-settings.php:1333
+#: includes/class-cntctfrm-settings.php:1377
+msgid "Error message for the Captcha field"
+msgstr "Error väljal 'Captcha'"
+
+#: includes/class-cntctfrm-settings.php:1334
+#: includes/class-cntctfrm-settings.php:1378
+msgid "Error message for the whole form"
+msgstr "Error kogu vormi kohta"
+
+#: includes/class-cntctfrm-settings.php:1394
+msgid "Use the changed names of the contact form fields in the email"
+msgstr "Kasuta kontaktivormi väljade muudetud nimesid emailis"
+
+#: includes/class-cntctfrm-settings.php:1400
+msgid "Action after email is sent"
+msgstr "Tegevus peale e-maili saatmist"
+
+#: includes/class-cntctfrm-settings.php:1402
+msgid "Display text"
+msgstr "Näita teksti"
+
+#: includes/class-cntctfrm-settings.php:1419
+#: includes/class-cntctfrm-settings.php:1436
+msgid "Text"
+msgstr "Tekst"
+
+#: includes/class-cntctfrm-settings.php:1450
+msgid "Redirect to the page"
+msgstr "Suuna lehele"
+
+#: includes/class-cntctfrm-settings.php:1452
+msgid "Url"
+msgstr "Url"
+
+#: includes/class-cntctfrm-settings.php:1475
+#, php-format
+msgid ""
+"Please enable JavaScript to change '%1$s', '%2$s', '%3$s', '%4$s' options "
+"and for fields sorting."
+msgstr ""
+"Activeu JavaScript per canviar les opcions \"%1$s\", \"%2$s\", \"%3$s\", "
+"\"%4$s\" i per a l'ordenació de camps."
+
+#: includes/class-cntctfrm-settings.php:1476
+#: includes/class-cntctfrm-settings.php:1495
+msgid "Form layout"
+msgstr "Disposició del formulari"
+
+#: includes/class-cntctfrm-settings.php:1477
+#: includes/class-cntctfrm-settings.php:1563
+msgid "Labels position"
+msgstr "Posició de les etiquetes"
+
+#: includes/class-cntctfrm-settings.php:1478
+#: includes/class-cntctfrm-settings.php:1581
+msgid "Labels align"
+msgstr "Les etiquetes s'alineen"
+
+#: includes/class-cntctfrm-settings.php:1479
+#: includes/class-cntctfrm-settings.php:1507
+msgid "Submit position"
+msgstr "Envia la posició"
+
+#: includes/class-cntctfrm-settings.php:1480
+#: includes/class-cntctfrm-settings.php:1612
+msgid "Add tooltips"
+msgstr "Lisa vihjed"
+
+#: includes/class-cntctfrm-settings.php:1481
+#: includes/class-cntctfrm-settings.php:1653
+msgid "Style options"
+msgstr "Stiili valikud"
+
+#: includes/class-cntctfrm-settings.php:1499
+msgid "One column"
+msgstr "Una columna"
+
+#: includes/class-cntctfrm-settings.php:1502
+msgid "Two columns"
+msgstr "Dues columnes"
+
+#: includes/class-cntctfrm-settings.php:1511
+#: includes/class-cntctfrm-settings.php:1552
+#: includes/class-cntctfrm-settings.php:1570
+#: includes/class-cntctfrm-settings.php:1585
+msgid "Left"
+msgstr "Esquerra"
+
+#: includes/class-cntctfrm-settings.php:1514
+#: includes/class-cntctfrm-settings.php:1558
+#: includes/class-cntctfrm-settings.php:1573
+#: includes/class-cntctfrm-settings.php:1591
+msgid "Right"
+msgstr "Dreta"
+
+#: includes/class-cntctfrm-settings.php:1519
+msgid "Width"
+msgstr "Amplada"
+
+#: includes/class-cntctfrm-settings.php:1527
+msgid "Custom"
+msgstr "Personalitzat"
+
+#: includes/class-cntctfrm-settings.php:1534
+msgid "px"
+msgstr "px"
+
+#: includes/class-cntctfrm-settings.php:1548
+msgid "Form align"
+msgstr "Alineació de formes"
+
+#: includes/class-cntctfrm-settings.php:1555
+#: includes/class-cntctfrm-settings.php:1588
+msgid "Center"
+msgstr "Centre"
+
+#: includes/class-cntctfrm-settings.php:1567
+msgid "Top"
+msgstr "A dalt"
+
+#: includes/class-cntctfrm-settings.php:1576
+msgid "Bottom"
+msgstr "Inferior"
+
+#: includes/class-cntctfrm-settings.php:1596
+msgid "Errors output"
+msgstr "Errorite väljund"
+
+#: includes/class-cntctfrm-settings.php:1599
+msgid "Display error messages"
+msgstr "Näita error-sõnumeid"
+
+#: includes/class-cntctfrm-settings.php:1600
+msgid "Color of the input field errors."
+msgstr "Color dels errors del camp d'entrada."
+
+#: includes/class-cntctfrm-settings.php:1601
+msgid "Display error messages & color of the input field errors"
+msgstr "Näita error-sõnumeid ja sisestusväljade errorite värvi"
+
+#: includes/class-cntctfrm-settings.php:1606
+msgid "Add placeholder to the input blocks"
+msgstr "Lisa kohahoidja sisestusblokkidele"
+
+#: includes/class-cntctfrm-settings.php:1626
+msgid "Email address"
+msgstr "Adreça de correu electrònic"
+
+#: includes/class-cntctfrm-settings.php:1657
+msgid "Text color"
+msgstr "Teksti värv"
+
+#: includes/class-cntctfrm-settings.php:1662
+#: includes/class-cntctfrm-settings.php:1671
+#: includes/class-cntctfrm-settings.php:1684
+#: includes/class-cntctfrm-settings.php:1692
+#: includes/class-cntctfrm-settings.php:1700
+#: includes/class-cntctfrm-settings.php:1708
+#: includes/class-cntctfrm-settings.php:1721
+#: includes/class-cntctfrm-settings.php:1729
+#: includes/class-cntctfrm-settings.php:1741
+#: includes/class-cntctfrm-settings.php:1758
+#: includes/class-cntctfrm-settings.php:1766
+#: includes/class-cntctfrm-settings.php:1774
+msgid "Select Color"
+msgstr "Selecciona un color"
+
+#: includes/class-cntctfrm-settings.php:1665
+msgid "Label text color"
+msgstr "Sildi teksti värv"
+
+#: includes/class-cntctfrm-settings.php:1674
+msgid "Placeholder color"
+msgstr "Kohahoidja värv"
+
+#: includes/class-cntctfrm-settings.php:1679
+msgid "Errors color"
+msgstr "Errorite värv"
+
+#: includes/class-cntctfrm-settings.php:1687
+msgid "Error text color"
+msgstr "Error-teksti värv"
+
+#: includes/class-cntctfrm-settings.php:1695
+msgid "Background color of the input field errors"
+msgstr "Sisestusväljade errorite taustavärv"
+
+#: includes/class-cntctfrm-settings.php:1703
+msgid "Border color of the input field errors"
+msgstr "Sisestusväljade errorite piirjoonte värv"
+
+#: includes/class-cntctfrm-settings.php:1711
+msgid "Placeholder color of the input field errors"
+msgstr "Sisestusväljade errorite kohahoidja värv"
+
+#: includes/class-cntctfrm-settings.php:1716
+msgid "Input fields"
+msgstr "Sisestusväljad"
+
+#: includes/class-cntctfrm-settings.php:1724
+msgid "Input fields background color"
+msgstr "Sisestusväljade taustavärv"
+
+#: includes/class-cntctfrm-settings.php:1732
+msgid "Text fields color"
+msgstr "Tekstiväljade värv"
+
+#: includes/class-cntctfrm-settings.php:1736
+msgid "Border width in px, numbers only"
+msgstr "Piirjoone paksus pikslites. Ainult number"
+
+#: includes/class-cntctfrm-settings.php:1744
+#: includes/class-cntctfrm-settings.php:1777
+msgid "Border color"
+msgstr "Piirjoone värv"
+
+#: includes/class-cntctfrm-settings.php:1749
+msgid "Submit button"
+msgstr "Botó d’Enviar"
+
+#: includes/class-cntctfrm-settings.php:1753
+msgid "Width in px, numbers only"
+msgstr "Laius pikslites, ainult numbrid"
+
+#: includes/class-cntctfrm-settings.php:1761
+msgid "Button color"
+msgstr "Nupu värv"
+
+#: includes/class-cntctfrm-settings.php:1769
+msgid "Button text color"
+msgstr "Nupu teksti värv"
+
+#: includes/class-cntctfrm-settings.php:1789
+msgid "Contact Form | Preview"
+msgstr "Formulari de contacte | Presentar"
+
+#: includes/class-cntctfrm-settings.php:1790
+msgid "Drag the necessary field to sort fields."
+msgstr "Arrossegueu el camp necessari per ordenar els camps."
+
+#: includes/class-cntctfrm-settings.php:1948
+#, php-format
+msgid "between %1$d, and %2$d characters"
+msgstr "entre %1$d i %2$d caràcters"
+
+#: includes/class-cntctfrm-settings.php:2144
+msgid "Contact Form Shortcode"
+msgstr "Formulari de contacte Shortcode"
+
+#: includes/class-cntctfrm-settings.php:2148
+msgid "Add Contact Form  to your page or post using the following shortcode:"
+msgstr ""
+"Afegeix formulari de contacte a la teva pàgina o publicació mitjançant el "
+"codi curt següent:"
+
+#~ msgid "If you upgrade to Pro version all your settings will be saved."
+#~ msgstr "Kui sa lähed üle Pro versioonile, siis kõik seaded salvestatakse."
+
+#~ msgid "Language settings for the field names in the form"
+#~ msgstr "Vormi keeleseaded nimeväljadele"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you would like to add the Contact Form to your website, just copy and "
+#~ "paste this shortcode to your post or page or widget"
+#~ msgstr ""
+#~ "Kui soovid lisada kontakti vormi oma kodulehele, siis lihtsalt kopeeri "
+#~ "see lühikood oma postitusele või lehele või moodulile:"
+
+#~ msgid "Save Changes"
+#~ msgstr "Salvesta muudatused"
+
+#~ msgid "Contact Form"
+#~ msgstr "Contact Form"
+
+#, fuzzy
+#~ msgid "Additional settings"
+#~ msgstr "Opcions addicionals"
+
+#~ msgid "Go PRO"
+#~ msgstr "Telli PRO"
+
+#, fuzzy
+#~ msgid "Notice"
+#~ msgstr "Märkus:"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you would like to add a Contact Form to your page or post, please use "
+#~ "%s button"
+#~ msgstr ""
+#~ "Kui soovid lisada kontakti vormi oma kodulehele, siis lihtsalt kopeeri "
+#~ "see lühikood oma postitusele või lehele või moodulile:"
+
+#~ msgid "Example: Sent from (IP address):\t127.0.0.1"
+#~ msgstr "Näide: Saadetud (IP address):\t127.0.0.1"
+
+#~ msgid "Example: Date/Time:\tAugust 19, 2013 8:50 pm"
+#~ msgstr "Näide: Kuupäev/Aeg:\tAugust 19, 2013 8:50 pm"
+
+#, fuzzy
+#~ msgid ""
+#~ "Example: Sent from (referer):\thttps://bestwebsoft.com/contacts/contact-"
+#~ "us/"
+#~ msgstr "Näide: Saatnud (referer):\thttp://veebimeister.com/"
+
+#~ msgid ""
+#~ "Example: Using (user agent):\tMozilla/5.0 (Windows NT 6.2; WOW64) "
+#~ "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36"
+#~ msgstr ""
+#~ "Näide: Kasutab (user agent):\tMozilla/5.0 (Windows NT 6.2; WOW64) "
+#~ "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36"
+
+#, fuzzy
+#~ msgid "Unlock premium options by upgrading to Pro version"
+#~ msgstr "Telli PRO versioon ja ava premium valikud."
+
+#~ msgid "Name:"
+#~ msgstr "Nimi:"
+
+#~ msgid "Address:"
+#~ msgstr "Aadress:"
+
+#~ msgid "Email Address:"
+#~ msgstr "E-maili aadress:"
+
+#~ msgid "Phone number:"
+#~ msgstr "Telefoni number:"
+
+#~ msgid "Subject:"
+#~ msgstr "Pealkiri:"
+
+#~ msgid "Message:"
+#~ msgstr "Sõnum:"
+
+#~ msgid "Attachment:"
+#~ msgstr "Manus:"
+
+#, fuzzy
+#~ msgid ""
+#~ "Please enable JavaScript to add language in the contact form, change the "
+#~ "names of the contact form fields and error messages."
+#~ msgstr "Muuda kontakti vormi väljade ja error-sõnumite nimesid"
+
+#~ msgid "What to use?"
+#~ msgstr "Mida kasutada?"
+
+#, fuzzy
+#~ msgid "Using Contact Form to DB by BestWebSoft"
+#~ msgstr "Kontakti vorm andmebaasi on loonud"
+
+#, fuzzy
+#~ msgid "Activate Captcha"
+#~ msgstr "Captcha activat"
+
+#, fuzzy
+#~ msgid "Download Captcha"
+#~ msgstr "Lae captcha alla"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "To send mail you can use the php mail function"
+#~ msgstr "E-mailide saatmiseks saad kasutada php mail funktsiooni"
+
+#~ msgid "English"
+#~ msgstr "Inglise"
+
+#~ msgid "or"
+#~ msgstr "või"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you have any problems with the standard shortcode [contact_form], you "
+#~ "should use the shortcode"
+#~ msgstr ""
+#~ "Kui sul on probleeme standard lühikoodiga [contact_form], siis peaksid "
+#~ "kasutama lühikoodi"
+
+#~ msgid "They work the same way."
+#~ msgstr "Need töötavad täpselt samamoodi."
+
+#~ msgid ""
+#~ "If have any problems with the standard shortcode [contact_form], you "
+#~ "should use the shortcode"
+#~ msgstr ""
+#~ "Kui sul on probleeme standard lühikoodiga [contact_form], siis peaksid "
+#~ "kasutama lühikoodi"
+
+#~ msgid "The $_SERVER variable that is used to build a URL of the form"
+#~ msgstr "$_SERVER muutuja mida kasutatakse vormi URL-i loomiseks"
+
+#~ msgid ""
+#~ "If you are not sure whether to change this setting or not, please do not "
+#~ "do that."
+#~ msgstr "Kui sa pole kindel, mida sa teed, siis ära tee seda."
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Plugina seaded on muudetud. Nende salvestamiseks ära unusta klikkimast "
+#~ "'Salvesta muutused' nupul."
+
+#, fuzzy
+#~ msgid "Unlock premium options by upgrading to PRO version."
+#~ msgstr "Telli PRO versioon ja ava premium valikud."
+
+#~ msgid "Go"
+#~ msgstr "Mine"
+
+#~ msgid "Show with errors"
+#~ msgstr "Näita koos erroritega"
+
+#~ msgid "Please enter your full name..."
+#~ msgstr "Palun sisesta oma täisnimi..."
+
+#~ msgid "Please enter your address..."
+#~ msgstr "Palun sisesta oma aadress..."
+
+#~ msgid "Please enter your email address..."
+#~ msgstr "Palun sisesta oma e-maili aadress..."
+
+#~ msgid "Please enter your phone number..."
+#~ msgstr "Palun sisesta oma telefoni number..."
+
+#~ msgid "Please enter subject..."
+#~ msgstr "Palun sisesta pealkiri..."
+
+#~ msgid "Please enter your message..."
+#~ msgstr "Palun sisesta oma sõnum..."
+
+#~ msgid "powered by"
+#~ msgstr "loonud"
+
+#~ msgid "Activate Contact Form to DB"
+#~ msgstr "Aktiveeri Contact Form"
+
+#~ msgid "Download Contact Form to DB"
+#~ msgstr "Lae Contact Form alla"
+
+#~ msgid "Captcha"
+#~ msgstr "Captcha"
+
+#~ msgid "(powered by bestwebsoft.com)"
+#~ msgstr "(Loonud bestwebsoft.com)"
+
+#~ msgid "requires"
+#~ msgstr "nõuab"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "või uuem, seetõttu on ka see deaktiveeritud! Palun uuenda WordPressi ja "
+#~ "proovi uuesti."
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Tagasi WordPressi"
+
+#~ msgid "Plugins page"
+#~ msgstr "Pluginate leht"
+
+#~ msgid "Wrong license key"
+#~ msgstr "Vale litsentsinumber"
+
+#~ msgid ""
+#~ "Something went wrong. Try again later. If the error will appear again, "
+#~ "please, contact us <a href=http://support.bestwebsoft.com>BestWebSoft</"
+#~ "a>. We are sorry for inconvenience."
+#~ msgstr ""
+#~ "Midagi läks valesti. Palun proovi hiljem uuesti. Kui see error ilmub "
+#~ "uuesti, siis võta meiega ühendust <a href=http://support.bestwebsoft."
+#~ "com>BestWebSoft</a>. Vabandame."
+
+#~ msgid "This license key is bind to another site"
+#~ msgstr "See litsents on seotud teise lehega"
+
+#~ msgid ""
+#~ "Unfortunately, you have exceeded the number of available tries per day. "
+#~ "Please, upload the plugin manually."
+#~ msgstr ""
+#~ "Kahjuks ületasid sa päevase limiidi. Palun lae plugin üles manuaalselt."
+
+#~ msgid ""
+#~ "Failed to download the zip archive. Please, upload the plugin manually"
+#~ msgstr ""
+#~ "Ei suutnud alla laadida zip arhiivi. Palun lae plugin üles manuaalselt"
+
+#~ msgid "Failed to open the zip archive. Please, upload the plugin manually"
+#~ msgstr "Ei suutnud avada zip arhiivi. Palun lae plugin üles manuaalselt"
+
+#~ msgid ""
+#~ "Your server does not support either ZipArchive or Phar. Please, upload "
+#~ "the plugin manually"
+#~ msgstr ""
+#~ "Sinu server ei toeta kas ZipArchive-i või Phr-i. Palun lae plugin üles "
+#~ "manuaalselt"
+
+#, fuzzy
+#~ msgid "UploadDir is not writable. Please, upload the plugin manually"
+#~ msgstr "Ei suutnud avada zip arhiivi. Palun lae plugin üles manuaalselt"
+
+#~ msgid ""
+#~ "Something went wrong. Try again later or upload the plugin manually. We "
+#~ "are sorry for inconvienience."
+#~ msgstr ""
+#~ "MIdagi läks valesti. Proovi hiljem uuesti, või lae plugin üles "
+#~ "manuaalselt. Vabandame."
+
+#~ msgid "Please, enter Your license key"
+#~ msgstr "Palun sisesta oma litsentsinumber..."
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr "Kui sulle see plugin meeldib, siis anna sellele 5 tärni WordPressis"
+
+#~ msgid "Rate the plugin"
+#~ msgstr "Hinda pluginat"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Palun kontakteeru kohe meiega, kui sellega on midagi viga"
+
+#~ msgid ""
+#~ "Congratulations! The PRO version of the plugin is successfully download "
+#~ "and activated."
+#~ msgstr ""
+#~ "Palju õnne! Plugina PRO versioon on edukalt alla laetud ja aktiveeritud."
+
+#~ msgid "Please, go to"
+#~ msgstr "Palun mine"
+
+#~ msgid "You will be redirected automatically in 5 seconds."
+#~ msgstr "Sind suunatakse automaatselt edasi 5 sekundi jooksul."
+
+#~ msgid "You can download and activate"
+#~ msgstr "Saad alla laadida ja aktiveerida"
+
+#~ msgid "version of this plugin by entering Your license key."
+#~ msgstr "versiooni sellest pluginast sisestades oma litsentsinumbri."
+
+#~ msgid ""
+#~ "You can find your license key on your personal page Client area, by "
+#~ "clicking on the link"
+#~ msgstr "Litsentsinumbri leiad oma isiklikult kliendialalt, klikates lingil"
+
+#~ msgid ""
+#~ "(your username is the email you specify when purchasing the product)."
+#~ msgstr ""
+#~ "(sinu kasutajanimi on emaili aadress mida sa kasutasid toote ostmisel)."
+
+#~ msgid ""
+#~ "It’s time to upgrade your <strong>Contact Form plugin</strong> to "
+#~ "<strong>PRO</strong> version"
+#~ msgstr ""
+#~ "On aeg sinu <strong>Contact Form plugin</strong> uuendada <strong>PRO</"
+#~ "strong> versioonile"
+
+#~ msgid "Extend standard plugin functionality with new great options."
+#~ msgstr "Avarda tavalisi plugina funktsioone uute valikutega."
+
+#~ msgid "Extra settings"
+#~ msgstr "Ekstra seaded"
+
+#~ msgid "Show"
+#~ msgstr "Näita"
+
+#~ msgid "Hide"
+#~ msgstr "Peida"
+
+#~ msgid "The text in the 'From' field"
+#~ msgstr "Tekst 'Kellelt' väljal"
+
+#~ msgid "This text will be used in the 'FROM' field"
+#~ msgstr "Seda teksti kasutatakse 'Kellelt' väljal"
+
+#~ msgid "The email address in the 'From' field"
+#~ msgstr "E-maili aadress 'Kellelt' väljal"
+
+#~ msgid "This email address will be used in the 'From' field."
+#~ msgstr "Seda e-maili aadressi kasutatakse 'Kellelt' väljal."
+
+#~ msgid ""
+#~ "This functionality is available in the Pro version of the plugin. For "
+#~ "more details, please follow the link"
+#~ msgstr ""
+#~ "Aquesta funcionalitat està disponible en la versió Pro del connector. Per "
+#~ "a més detalls, si us plau seguiu l'enllaç"
+
+#~ msgid "Contact Form Pro"
+#~ msgstr "Contact Form Pro"
+
+#~ msgid "Contact Form Pro Extra Settings"
+#~ msgstr "Contact Form Pro ekstra seaded"
+
+#~ msgid "Contact Form Pro | Extra Settings"
+#~ msgstr "Contact Form Pro | Ekstra seaded"
+
+#~ msgid "Display fields"
+#~ msgstr "Mostra els camps"
+
+#, fuzzy
+#~ msgid "Display tips below the Attachment block"
+#~ msgstr "Consells del blocatge de l'adjunt"
+
+#~ msgid "Required fields"
+#~ msgstr "Camps requerits"
+
+#~ msgid "You can attach the following file formats"
+#~ msgstr "Pot adjuntar els següents formats d'arxiu"
+
+#, fuzzy
+#~ msgid "Memory usage"
+#~ msgstr "MIssatge"
+
+#, fuzzy
+#~ msgid "Site URL"
+#~ msgstr "Lloc"
+
+#, fuzzy
+#~ msgid "Please enter a valid email address."
+#~ msgstr "Si us plau introdueixi el seu e-mail"
+
+#~ msgid "Read more"
+#~ msgstr "Llegir més"
+
+#~ msgid "Installed plugins"
+#~ msgstr "Plugins instal·lats"
+
+#~ msgid "Recommended plugins"
+#~ msgstr "Plugins recomanants"
+
+#~ msgid "Purchase"
+#~ msgstr "Comprar"
+
+#~ msgid "Install %s"
+#~ msgstr "Instal·la %s"
+
+#~ msgid "Install now from wordpress.org"
+#~ msgstr "Instal·la ara des de wordpress.org"
+
+#, fuzzy
+#~ msgid "Active Plugins"
+#~ msgstr "Plugin activat"
+
+#, fuzzy
+#~ msgid "Inactive Plugins"
+#~ msgstr "Plugin activat"
+
+#, fuzzy
+#~ msgid "Send to support"
+#~ msgstr "Suport"
+
+#~ msgid "Contact Form Options"
+#~ msgstr "Opciones Contact Form"
+
+#~ msgid "Please enter a valid email address. Settings are not saved."
+#~ msgstr ""
+#~ "Por favor introduzca un e-mail correcto. Los cambios no se han guardado."
+
+#, fuzzy
+#~ msgid "E-Mail Address"
+#~ msgstr "Dirección e-mail:"
+
+#~ msgid "E-Mail Addresse:"
+#~ msgstr "Indirizzo e-mail:"
+
+#~ msgid "Install Now"
+#~ msgstr "Installa Ora"
